@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Contributor Code of Conduct"
+title: "Codi de Conducta"
 ---
-As contributors and maintainers of this project,
-we pledge to follow the [Carpentry Code of Conduct][coc].
+Com a autora d'aquest projecte em comprometo a seguir el
+[Codi de Conducta de les Carpentries][coc].
 
-Instances of abusive, harassing, or otherwise unacceptable behavior
-may be reported by following our [reporting guidelines][coc-reporting].
+Situacions abusives, d'assetjament o qualsevol altre comportament inacceptable
+es poden denunciar seguint les [guies de denuncia de les Carpentries][coc-reporting].
 
 {% include links.md %}
