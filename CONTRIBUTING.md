@@ -4,7 +4,7 @@ Aquest projecte no està directament afiliat amb The Carpentries. L'autora ha fe
 el model de The Carpentries per desenvolupar aquesta lliçó, i també la plantilla,
 desenvolupada per voluntaris de The Carpentries i disponible amb una llicència CC-BY. 
 L'autora convida a la comunitat a participar en el desenvolupament d'aquesta llicó
-d'una manera consistent a l'explicada aquí sota.
+d'una manera consistent a l'explicada aquí sota (en anglès), seguint el model de The Carpentries.
 
 # Contributing
 
