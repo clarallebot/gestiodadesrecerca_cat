@@ -3,9 +3,8 @@ layout: page
 title: "Codi de Conducta"
 ---
 Com a autora d'aquest projecte em comprometo a seguir el
-[Codi de Conducta de les Carpentries][coc].
+[Codi de Conducta de les Carpentries][coc], tot i que aquest projecte no pertany oficialment a les Carpentries.
 
-Situacions abusives, d'assetjament o qualsevol altre comportament inacceptable
-es poden denunciar seguint les [guies de denuncia de les Carpentries][coc-reporting].
+Situacions abusives, d'assetjament o qualsevol altre comportament inacceptable es pot denunciar a l'organisme organitzador del curs. 
 
 {% include links.md %}
