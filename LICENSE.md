@@ -9,8 +9,17 @@ root: .
 
 La plantilla utilitzada per aquesta lliçó ha estat desenvolupada per 
 The Carpentries. Tot el material de The Carpentries és disponible sota 
-una llicència [Creative Commons Reconeixement][cc-by-human]. Aquí sota podeu trobar
-un resum (no un substitut) del [text legal de la llicència CC BY 4.0][cc-by-legal].
+una llicència [Creative Commons Reconeixement][cc-by-human].
+
+## Contingut de la llicó
+
+El contingut d'aquesta lliçó ha estat creat per Clara Llebot. Està disponible sota
+una llicència [Creative Commons Reconeixement][cc-by-human].
+
+## Llicència Creative Commons Reconeixement
+
+Aquí sota podeu trobar un resum (no un substitut) del 
+  [text legal de la llicència CC BY 4.0][cc-by-legal].
 
 Ets lliure de:
 
