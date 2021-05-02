@@ -11,5 +11,5 @@ o executeu `make` en aquest directori per obtenir una llista de comentaris d'aju
 
 Aquesta lliçó fa servir la plantilla de lliçó de The Carpentries. 
 Els continguts estan desenvolupats principalment per Clara Llebot. 
-[Clara Llebot]<https://library.oregonstate.edu/staff/llebotlc> manté aquesta pàgina.  
+[Clara Llebot](https://library.oregonstate.edu/staff/llebotlc) manté aquesta pàgina.  
 
