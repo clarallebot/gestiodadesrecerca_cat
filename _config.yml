@@ -7,10 +7,10 @@
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "swc"
+carpentry: "lc"
 
 # Overall title for pages.
-title: "Version Control with Git: Beginner"
+title: "Gestió de dades de recerca per professionals de la informació"
 
 
 #------------------------------------------------------------
@@ -26,7 +26,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "clara.llebot@oregonstate.edu"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
