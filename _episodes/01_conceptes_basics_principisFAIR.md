@@ -78,6 +78,15 @@ Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de 
 
 # Què és la gestió de dades de recerca?
 
+> ## Definició de gestió de dades de recerca
+> 
+> Gestionar dades de recerca és un conjunt d'activitats destinades a emmagatzemar, preservar i reutilitzar dades de forma eficient, ètica i segura, durant tot el cicle de vida de les dades.
+> 
+{: .callout}
+
+Vegem els diferents elements d'aquesta definició
+
+
 # Reproductibilitat
 
 # La gestió de dades i dades obertes
