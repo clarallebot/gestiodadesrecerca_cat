@@ -177,8 +177,7 @@ La comunitat científica ha començat moltes estratègies per millorar la reprod
 
 # Els principis FAIR
 
-## Referències
-
+# Referències
 
 
 Begley, C. G. (2013). An Unappreciated Challenge to Oncology Drug Discovery: Pitfalls in Preclinical Research. American Society of Clinical Oncology Educational Book, 33, 466–468. [https://doi.org/10.14694/EdBook_AM.2013.33.466](https://doi.org/10.14694/EdBook_AM.2013.33.466)
