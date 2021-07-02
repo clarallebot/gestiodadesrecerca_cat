@@ -122,12 +122,18 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 
 > ## Pregunta amb resposta múltiple
 >
-> Quins dels següents exemples es poden considerar gestió de dades de recerca?
-> 
+> Quins dels següents exemples es poden considerar gestió de dades de recerca? (resposta múltiple)
+> A. Un investigador dóna accés a les dades a una col·laboradora
+> B. Un investigador decideix posar nom a les seves dades de la següent manera: NomProjecte_Variable_Instrument_LlocMostreig_YYYYMMDD.dat
+> C. Una investigadora decideix publicar un article a una revista de prestigi en el seu camp.
+> D. Una investigadora decideix depositar els protocols que ha seguit durant el seu experiment en obert en un repositori.
 >
 > > ## Solució
 > >
-> > A, B, D.
+> > A. CERT Gestionar l'accés a les dades és una part important de la gestió de dades, ja sigui amb membres de l'equip, col·laboradors externs, o el públic.
+> > B. CERT Mantenir les dades ordenades és part de la gestió de dades. 
+> > C. FALS Publicar un article és publicar la interpretació de les dades, no les dades. Això no és, en principi, gestionar les dades.
+> > D. CERT Això es pot considerar gestionar dades perquè està depositant metadades, informació sobre com s'han generat les dades.
 > >
 > {: .solution}
 {: .challenge}
@@ -136,8 +142,28 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 
 REBIUN (2016) Datos de investigación y acceso abierto. https://ddd.uab.cat/record/165475.  [Consulta: 2 juliol 2021].
 
-
 # Reproductibilitat
+
+## Context
+
+Per parlar de reproductibilitat començarem introduint breument la feina de Brian Nosek, perquè és un investigador que ha parlat molt de temes de reproductibilitat. Però n'hi ha molts d'altres, evidentment. 
+
+En Brian Nosek va coordinar un estudi en el qual ell, més 269 col·laboradors, van intentar reproduir les troballes de 98 articles en el camp de la psicologia ([Open Science Collaboration, 2015](https://doi.org/10.1126/science.aac4716)). Van escollir articles publicats en revistes de prestigi, i van comptar amb la col·laboració de molts dels autors dels estudis originals. El resultat va ser que tan sols van poder replicar 39 dels 98 estudis. Altres estudis similars han estat publicats en altres disciplines, amb resultats similars ([Begley, 2013](https://doi.org/10.14694/EdBook_AM.2013.33.466), [Camerer 2016](https://doi.org/10.1126/science.aaf0918)). Aquest tipus d'estudis van portar a la comunitat científica a parlar de l'existència d'una crisi de reproductibilitat. La idea és que de la manera com es fa ciència avui en dia, és molt difícil reproduir els resultats d'un estudi.
+
+Encara que no tota la comunitat científica està d'acord amb l'existència d'aquesta crisi, el concepte de reproductibilitat és important per a la comunitat científica ([Fanelli, 2018](https://doi.org/10.1371/journal.pone.0005738)). La següent figura, provinent de l'article de [Fanelli (2018)](https://doi.org/10.1371/journal.pone.0005738) il·lustra el nombre d'articles publicats des de 1975 que parlen d'una crisi de reproductibilitat. En vermell, si estan d'acord amb l'existència d'una crisi, en blau si qüestionen l'existència d'una crisi.
+
+
+
+## Referències
+
+Begley, C. G. (2013). An Unappreciated Challenge to Oncology Drug Discovery: Pitfalls in Preclinical Research. American Society of Clinical Oncology Educational Book, 33, 466–468. [https://doi.org/10.14694/EdBook_AM.2013.33.466](https://doi.org/10.14694/EdBook_AM.2013.33.466)
+
+Camerer, C. F., Dreber, A., Forsell, E., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Almenberg, J., Altmejd, A., Chan, T., Heikensten, E., Holzmeister, F., Imai, T., Isaksson, S., Nave, G., Pfeiffer, T., Razen, M., & Wu, H. (2016). Evaluating replicability of laboratory experiments in economics. Science, 351(6280), 1433–1436. [https://doi.org/10.1126/science.aaf0918](https://doi.org/10.1126/science.aaf0918)
+
+Fanelli, D. (2009). How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLoS ONE, 4(5), e5738. [https://doi.org/10.1371/journal.pone.0005738](https://doi.org/10.1371/journal.pone.0005738)
+
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716–aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
+
 
 # La gestió de dades i dades obertes
 
