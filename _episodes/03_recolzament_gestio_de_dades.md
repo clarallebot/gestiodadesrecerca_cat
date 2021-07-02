@@ -26,6 +26,16 @@ Hi ha diversos articles que descriuen els tipus de serveis oferts per universita
 
 És útil diferenciar, no només entre serveis d'Informació i consultes i serveis tècnics i aplicats, sinó entre serveis transversals, serveis a grups, i serveis a persones individuals. Consulteu la taula següent per veure les diferències entre ells a nivell d'inversió necessària, tipus de coneixement comunicat, i investigadors afectats.
 
+
+ 
+| |Serveis transversals|Serveis a grups|Serveis a persones|
+|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+|Inversió necessària|Alt en temps i recursos. Quan en marxa, aplicació ràpida.|Mitjà. Unes quantes hores o setmanes|Relativament curt. Minuts o poques hores.|
+|Tipus de coneixement comunicat|Coneixement generalitzable, s'ha d'interpretar en cada ocasió|Entre generalitzable i específic|Coneixement específic per a una aplicació concreta|
+|Investigadors afectats|Tots els investigadors de la institució|Grup d'investigadors amb alguna cosa en comú|Una persona o grup petit|
+
+
+
 ## Exemples
 
 Vegem-ne alguns exemples
