@@ -130,10 +130,10 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 >
 > > ## Solució
 > >
-> > A. CERT Gestionar l'accés a les dades és una part important de la gestió de dades, ja sigui amb membres de l'equip, col·laboradors externs, o el públic.
-> > B. CERT Mantenir les dades ordenades és part de la gestió de dades. 
-> > C. FALS Publicar un article és publicar la interpretació de les dades, no les dades. Això no és, en principi, gestionar les dades.
-> > D. CERT Això es pot considerar gestionar dades perquè està depositant metadades, informació sobre com s'han generat les dades.
+> > - A. CERT Gestionar l'accés a les dades és una part important de la gestió de dades, ja sigui amb membres de l'equip, col·laboradors externs, o el públic.
+> > - B. CERT Mantenir les dades ordenades és part de la gestió de dades. 
+> > - C. FALS Publicar un article és publicar la interpretació de les dades, no les dades. Això no és, en principi, gestionar les dades.
+> > - D. CERT Això es pot considerar gestionar dades perquè està depositant metadades, informació sobre com s'han generat les dades.
 > >
 > {: .solution}
 {: .challenge}
