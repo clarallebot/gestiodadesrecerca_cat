@@ -182,7 +182,7 @@ Posar les dades en obert és una manera d'assegurar-se que altres investigadors 
 * Publicar dades en obert és positiu per als investigadors. Per exemple, hi ha estudis que demostren que els articles que tenen dades en oberts se citen més que els que no ([Piwowar i Vision, 2013](https://doi.org/10.7287/peerj.preprints.1v1))
 * Perquè és més just. Sobretot si tenim en compte que gran part dels fons per a investigació provenen de diners públics.
 * Quan les dades es fan públics en un repositori de qualitat també assegurem la seva preservació a llarg termini.
-* Compartir les dades de recerca en general fa que la ciència avanci més ràpid. En algunes ocasions compartir les dades fa possible investigació que seria impossible d'altres formes. Per exemple, vegeu article de Nature (2016) sobre com compartir dades pot ajudar en la investigació de malalties rares.
+* Compartir les dades de recerca en general fa que la ciència avanci més ràpid. En algunes ocasions compartir les dades fa possible investigació que seria impossible d'altres formes. Per exemple, vegeu aquest [article de Nature (2016)](https://doi.org/10.1038/534435b) sobre com compartir dades pot ajudar en la investigació de malalties rares.
 
 
 ### Com han de ser les dades obertes?
@@ -222,6 +222,8 @@ El cas més comú en què les dades no s'haurien de publicar en obert és quan h
 
 # Els principis FAIR
 
+
+
 # Referències
 
 
@@ -247,6 +249,8 @@ Piwowar, H., & Vision, T. J. (2013). Data reuse and the open data citation advan
 REBIUN (2016) Datos de investigación y acceso abierto. [https://ddd.uab.cat/record/165475](https://ddd.uab.cat/record/165475).  [Consulta: 2 juliol 2021].
 
 Reinhart, Rogoff... and Herndon: The student who caught out the profs. (2013, April 19). BBC News. [https://www.bbc.com/news/magazine-22223190](https://www.bbc.com/news/magazine-22223190)
+
+The ups and downs of data sharing in science. (2016). Nature, 534(7608), 435–436. [https://doi.org/10.1038/534435b](https://doi.org/10.1038/534435b)
 
 Wiley (2014) The Access Compromise and the 5th R. Improving learning. [Blog post] [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)
 
