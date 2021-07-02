@@ -123,10 +123,10 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 > ## Pregunta amb resposta múltiple
 >
 > Quins dels següents exemples es poden considerar gestió de dades de recerca? (resposta múltiple)
-> A) Un investigador dóna accés a les dades a una col·laboradora
-> B) Un investigador decideix posar nom a les seves dades de la següent manera: NomProjecte_Variable_Instrument_LlocMostreig_YYYYMMDD.dat
-> C) Una investigadora decideix publicar un article a una revista de prestigi en el seu camp.
-> D) Una investigadora decideix depositar els protocols que ha seguit durant el seu experiment en obert en un repositori.
+> - A. Un investigador dóna accés a les dades a una col·laboradora
+> - B. Un investigador decideix posar nom a les seves dades de la següent manera: NomProjecte_Variable_Instrument_LlocMostreig_YYYYMMDD.dat
+> - C. Una investigadora decideix publicar un article a una revista de prestigi en el seu camp.
+> - D. Una investigadora decideix depositar els protocols que ha seguit durant el seu experiment en obert en un repositori.
 >
 > > ## Solució
 > >
