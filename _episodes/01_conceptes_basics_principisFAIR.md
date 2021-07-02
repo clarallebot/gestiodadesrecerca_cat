@@ -175,6 +175,51 @@ La comunitat científica ha començat moltes estratègies per millorar la reprod
 
 # La gestió de dades i dades obertes
 
+### Dades obertes
+
+Posar les dades en obert és una manera d'assegurar-se que altres investigadors podran (1) comprovar que no s'han comès errors en el tractament de les dades en una publicació (2) reproduir els resultats de la investigació i (3) re-utilitzar les dades per a altres investigacions. Compartir dades amb el públic té també altres avantatges
+
+* Publicar dades en obert és positiu per als investigadors. Per exemple, hi ha estudis que demostren que els articles que tenen dades en oberts se citen més que els que no ([Piwowar i Vision, 2013](https://doi.org/10.7287/peerj.preprints.1v1))
+* Perquè és més just. Sobretot si tenim en compte que gran part dels fons per a investigació provenen de diners públics.
+* Quan les dades es fan públics en un repositori de qualitat també assegurem la seva preservació a llarg termini.
+* Compartir les dades de recerca en general fa que la ciència avanci més ràpid. En algunes ocasions compartir les dades fa possible investigació que seria impossible d'altres formes. Per exemple, vegeu article de Nature (2016) sobre com compartir dades pot ajudar en la investigació de malalties rares.
+
+
+### Com han de ser les dades obertes?
+
+> ## Definició de dades obertes
+> Dades d'investigació obertes són (segons la [Comissió Europea](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en), la meva traducció), "dades que sustenten els resultats de la investigació científica sense restriccions d'accés, de manera que qualsevol pot accedir-hi".
+> 
+> 
+{: .callout}
+
+És important el concepte que posar les dades en obert no és només fer que les dades siguin gratuïtes. Les dades obertes han de tenir els permisos i llicències necessàries per assegurar-se que les dades es puguin reutilitzar. Aquestes cinc R de les dades obertes, resumeixen el concepte ([les cinc R de Wiley](https://opencontent.org/blog/archives/3221), la meva traducció):
+
+* **retenir**: que puguis descarregar les dades i guardar-ne una còpia
+* **revisar**: editar, adaptar i modificar la teva còpia
+* **modificar**: barrejar, transformar o crear a partir de la còpia original.
+* **reutilitzar**: fer servir l'original o derivats de forma pública
+* **redistribuir**: compartir còpies de l'original o els derivats.
+
+I a més de tenir les llicències necessàries, les dades obertes han de ser dades de qualitat. Tenir un conjunt de dades en obert que no es pot entendre no serveix per a res. En un moment parlarem dels principis FAIR, uns principis creats per maximitzar la reutilització de les dades que incideixen molt en quines qualitats han de tenir les dades. Dades FAIR i dades obertes no són el mateix, tot i que no són exclusivament per dades obertes, són una bona guia per saber com publicar dades obertes de qualitat, de manera que en maximitzem la reutilització. 
+
+### Tot ha de ser obert?
+
+Evidentment, no totes les dades es poden publicar en obert. Hi ha molt bones raons per mantenir segons quines dades protegides. La consigna  que les dades han de ser "tan obertes com sigui possible, tan tancades com sigui necessari" s'utilitza sovint, la veureu per exemple en les guies de la Comissió Europea per redactar plans de gestió de dades.
+
+El cas més comú en què les dades no s'haurien de publicar en obert és quan hem de protegir la privacitat dels subjectes de recerca, perquè els nostres subjectes són persones de qui estem recol·lectant dades personals. A vegades, tot i que no treballem amb persones, és necessari també tenir les dades tancades. Per exemple, un estudi d'espècies en extinció en què hi ha informació de la localització d'aquestes espècies no s'hauria de publicar en obert per evitar que caçadors furtius utilitzin aquesta informació. O les dades d'un estudi sobre la prevalença d'una determinada malaltia en bestiar no s'hauria de publicar en obert per protegir els pagesos que estan gestionant la malaltia correctament a les seves granges.
+
+> ## Vertader o fals?
+>
+> Per tal de fer que la recerca sigui reproduible totes les dades utilitzades en un projecte de recerca s’haurien de posar en obert, sense excepció. Cert o fals?
+>
+> > ## Solució
+> >
+> > Fals! Hi ha moltes excepcions que poden ser necessàries. Per exemple, quan la recerca és sobre subjectes humans per protegir la seva privacitat. 
+> >
+> {: .solution}
+{: .challenge}
+
 # Els principis FAIR
 
 # Referències
@@ -186,6 +231,9 @@ Callaway, E. (2011). Report finds massive fraud at Dutch universities. Nature, 4
 
 Camerer, C. F., Dreber, A., Forsell, E., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Almenberg, J., Altmejd, A., Chan, T., Heikensten, E., Holzmeister, F., Imai, T., Isaksson, S., Nave, G., Pfeiffer, T., Razen, M., & Wu, H. (2016). Evaluating replicability of laboratory experiments in economics. Science, 351(6280), 1433–1436. [https://doi.org/10.1126/science.aaf0918](https://doi.org/10.1126/science.aaf0918)
 
+Facts and Figures for open research data. (n.d.). [Text]. European Commission - European Commission. Retrieved July 2, 2021, from [https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor/facts-and-figures-open-research-data_en)
+
+
 Fanelli, D. (2009). How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLoS ONE, 4(5), e5738. [https://doi.org/10.1371/journal.pone.0005738](https://doi.org/10.1371/journal.pone.0005738)
 
 National Academies of Sciences, Engineering, and Medicine (2019). Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25303](https://doi.org/10.17226/25303).
@@ -194,9 +242,13 @@ Open Science Collaboration. (2015). Estimating the reproducibility of psychologi
 
 Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de las Moras Hervella, M., González Ballesteros, F., Corrales Correyero, J. (2015) Portal PAGODA: Plan de Gestión de Datos. Fesabid'15, XIV Jornadas Españolas de Documentación. Gijón, 28, 29 y 30 Mayo 2015. [http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf](http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf)
 
+Piwowar, H., & Vision, T. J. (2013). Data reuse and the open data citation advantage [Preprint]. PeerJ PrePrints. https://doi.org/10.7287/peerj.preprints.1v1
+
 REBIUN (2016) Datos de investigación y acceso abierto. [https://ddd.uab.cat/record/165475](https://ddd.uab.cat/record/165475).  [Consulta: 2 juliol 2021].
 
 Reinhart, Rogoff... and Herndon: The student who caught out the profs. (2013, April 19). BBC News. [https://www.bbc.com/news/magazine-22223190](https://www.bbc.com/news/magazine-22223190)
+
+Wiley (2014) The Access Compromise and the 5th R. Improving learning. [Blog post] [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)
 
 
 > ## Incís
