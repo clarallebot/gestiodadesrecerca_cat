@@ -78,20 +78,10 @@ Lewis, M. (2010). Libraries and the management of research data. In S. McKnight 
 
 > ## Exercici
 >
-> Us proposo aquest exercici
->
-> > ## Solució
-> >
-> > Aquesta és la solució de l'exercici
-> >
-> {: .solution}
+> Quins serveis ofereix la vostra universitat o centre de recerca? Funcionen bé? Identifiqueu dos o tres serveis que creieu que seria molt útil oferir a la vostra > institució. Per què heu escollit aquests serveis? Com funcionen els serveis que ja teniu? Quines són les necessitats que veieu més urgents?
+> 
+> Recordeu que podeu consultar les lectures recomanades per reflexionar sobre serveis
+> * [Llebot i Rempel, 2020](https://ir.library.oregonstate.edu/concern/file_sets/8w32rc99c) (en català).
+> * Apèndix F de [Cox et al 2016](https://doi.org/10.1002/asi.23781) (en anglès).
 {: .challenge}
 
-
-
-> ## Lectures recomanades
->
-> *   Article 1
->
-> *   Article 2
-{: .challenge}
