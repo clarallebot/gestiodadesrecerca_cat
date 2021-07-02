@@ -1,18 +1,16 @@
 ---
 title: Recolzament a la gestió de dades de recerca en institucions i biblioteques.
-teaching: 5
+teaching: 30
 exercises: 0
 questions:
-- "Com podem recolzar els investigadors i investigadores en la gestió de les dades de recerca des de les biblioteques?"
+- "Quins serveis ofereixen les institucions i biblioteques per donar suport a la gestió de dades de recerca?"
 - "Quines activitats es fan a altres centres del món?"
 objectives:
-- "Saber definir ´Dades de recerca´."
-- "Saber definir ´Gestió de dades de recerca´."
-- "Entendre el concepte de reproductibilitat."
-- "Tenir una visió general de dades obertes en la gestió de dades de recerca"
+- "Després d'aquesta lliçó el participant sabrà identificar i descriure activitats realitzades en biblioteques del món amb l'objectiu de donar suport als investigadors en la gestió de dades de recerca"
 keypoints:
-- "Les dades de recerca poden tenir moltes formes diferents."
-- "Un dels objectius de la gestió de dades de recerca és que la ciència sigui més reproductible."
+- "Les biblioteques poden oferir serveis de suport a la gestió de dades de recerca, moltes vegades en col·laboració amb altres centres o unitats del centre d'investigació"
+- "Diferents universitats ofereixen diferents combinacions de serveis d'informació i consultes, i serveis tècnics aplicats"
+- "És útil diferenciar entre serveis transversals, serveis a grups, i serveis a persones individuals"
 ---
 
 En aquesta lliçó farem una mirada breu als serveis que les biblioteques de l'entorn del món han organitzat per donar suport als investigadors i institucions en les tasques de gestió de dades.
