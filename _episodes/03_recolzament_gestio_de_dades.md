@@ -53,6 +53,8 @@ En ser només un exemple, el contingut està només en format de vídeo.
 
 ![Video d'exemple de serveis de suport a la gestió de dades de recerca de la Oregon State University](../fig/tema5_contingut1_exemple_serveis_suport_imatge_video.png)
 
+[![Video d'exemple de serveis de suport a la gestió de dades de recerca de la Oregon State University]({../fig/tema5_contingut1_exemple_serveis_suport_imatge_video.png})]({https://drive.google.com/file/d/1vMf_N2C4plJ8wGdPsE_9f9Po3_4lWP3p/view?usp=sharing} "Video d'exemple")
+
 ## Referències usades en el text
 Cox, A. M., Kennan, M. A., Lyon, L., & Pinfield, S. (2017). Developments in research data management in academic libraries: Towards an understanding of research data service maturity. Journal of the Association for Information Science and Technology, 68(9), 2182–2200. https://doi.org/10.1002/asi.23781
 
