@@ -57,9 +57,13 @@ En ser només un exemple, el contingut està només en format de vídeo.
 
 ## Referències usades en el text
 Cox, A. M., Kennan, M. A., Lyon, L., & Pinfield, S. (2017). Developments in research data management in academic libraries: Towards an understanding of research data service maturity. Journal of the Association for Information Science and Technology, 68(9), 2182–2200. https://doi.org/10.1002/asi.23781
+
 Llebot, C., Rempel, H. G. (2020) Instruments to explore the adoption of good data management practices through a variation of the UTAUT model. (Version 1) [Dataset]. Oregon State University. https://doi.org/10.7267/5x21tn73z
+
 Tenopir, C., Allard, S., Frame, M., Birch, B., Baird, L., Sandusky, R., Langseth, M., Hughes, D., & Lundeen, A. (2015). Research data services in academic libraries: Data intensive roles for the future? Journal of EScience Librarianship, 4(2), e1085.https://doi.org/10.7191/jeslib.2015.1085
+
 Rans, J., & White, A. (2017). Using RISE, the research infrastructure self evaluation framework. Digital Curation Centre. http://www.dcc.ac.uk/resources/how-guides/RISE#4
+
 Lewis, M. (2010). Libraries and the management of research data. In S. McKnight (Ed.), Envisioning Future Academic Library Services (1st ed., pp. 145–168). Facet. https://doi.org/10.29085/9781856048750.011
 
 
