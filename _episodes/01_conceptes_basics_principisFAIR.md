@@ -140,7 +140,7 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 
 ## Referències
 
-REBIUN (2016) Datos de investigación y acceso abierto. https://ddd.uab.cat/record/165475.  [Consulta: 2 juliol 2021].
+REBIUN (2016) Datos de investigación y acceso abierto. [https://ddd.uab.cat/record/165475](https://ddd.uab.cat/record/165475).  [Consulta: 2 juliol 2021].
 
 # Reproductibilitat
 
@@ -152,18 +152,44 @@ En Brian Nosek va coordinar un estudi en el qual ell, més 269 col·laboradors, 
 
 Encara que no tota la comunitat científica està d'acord amb l'existència d'aquesta crisi, el concepte de reproductibilitat és important per a la comunitat científica ([Fanelli, 2018](https://doi.org/10.1371/journal.pone.0005738)). La següent figura, provinent de l'article de [Fanelli (2018)](https://doi.org/10.1371/journal.pone.0005738) il·lustra el nombre d'articles publicats des de 1975 que parlen d'una crisi de reproductibilitat. En vermell, si estan d'acord amb l'existència d'una crisi, en blau si qüestionen l'existència d'una crisi.
 
+![Gràfic de Fanelli (2018) que mostra el número d'articles publicats des de 1975 fins al 2017 amb les paraules "reproducibility crisis", "scientific crisis", "science in crisis", "crisis in science", "replication crisis", "replicability crisis". Entre el 1975 i el 2011 n'hi ha 5 o menys cada any, i només quatre en parlen recolzant la idea de la crisi. Del 2012 al 2016 el número d'articles creix de 5 a més de 35 per any, i la gran majoria recolzen la idea que hi ha una crisi. ELs últims tres anys inclouen articles que qüestionen que hi hagi una crisi.](tema1_contingut1_figure1_reproducibility_fanelli2018.png)
+Figura: Gràfic de [Fanelli (2018)](https://doi.org/10.1371/journal.pone.0005738) mostrant l'evolució del concepte de reproductibilitat.
 
+> ## Definició de reproductibilitat i replicabilitat
+> 
+> Si feu una mica de recerca, veureu que hi ha moltes definicions de reproductibilitat, i que sovint s'entrellacen amb el concepte de replicabilitat. Aquestes són les definicions del [National Academies of Sciences, Engineering, and Medicine, (2019)](https://doi.org/10.17226/25303). (La traducció és meva).
+> 
+> **Reproductibilitat** és l'obtenció de resultats consistents usant les mateixes dades d'origen, els mateixos passos computacionals, mètodes i codi, les mateixes condicions d'anàlisi.
+> 
+> **Replicabilitat** és l'obtenció de resultats consistents a través d'estudis que tenen com a objectiu el resoldre les mateixes preguntes científiques, on cada estudi ha obtingut les seves pròpies dades. 
+> 
+{: .callout}
+
+## Per què hi ha una crisi de reproductibilitat?
+
+Hi ha moltes raons per les quals és difícil reproduir estudis científics. A vegades és perquè els científics són humans, i cometen errors. Vegeu, per exemple, el cas de l'estudiant que va descobrir un error en un article de gran prestigi, descrit en aquest article d'[Alexander R. (2013)](https://www.bbc.com/news/magazine-22223190). Altres vegades és perquè s'ha comès frau i les dades s'han fabricat, com en el cas del psicòleg Diederik Stapel, que va inventar les dades de més de 50 articles, vegeu un dels articles sobre el tema a [Callaway, 2011](https://doi.org/10.1038/479015a). En general, però, la preocupació ve del fet que la manca de reproducibilitat és deguda a un biaix estructural del sistema. Aquí en teniu uns quants elements:
+
+* Hi ha molta pressió per publicar molt, i en determinades revistes. Això fa que no es publiquin estudis vàlids però "avorrits", o estudis que tenen resultats negatius. Els resultats es prioritzen, enlloc de prioritzar la metodologia.
+* Aquesta pressió per publicar també provoca que els investigadors caiguin en la temptació (conscient o no) de fer més i més anàlisis fins a trobar el resultat desitjat.
+* La unitat bàsica de transmetre resultats és l'article, que sovint és un format rígid que no dóna lloc a compartir informació imprescindible per reproduir els estudis. A vegades pensem que una bona secció de mètodes en un article ja és suficient per garantir la reproductibilitat d'un projecte d'investigació, però no és cert. Per realment reproduir un estudi es necessita molt més: informació sobre els instruments i la seva configuració, els protocols seguits, el codi usat per a tractar les dades, els tests estadístics usat, els valors llindar, el programari i maquinari usat, ... i per descomptat, les dades.
+
+La comunitat científica ha començat moltes estratègies per millorar la reproductibilitat i replicabilitat dels estudis científics. En el capítol 6 de [National Academies of Sciences, Engineering, and Medicine (2019)](https://doi.org/10.17226/25303) podeu trobar una explicació sobre moltes d'elles. La bona gestió de les dades durant la investigació i després de la investigació és una part fonamental per a generar investigacions reproduïbles. Un element molt important per assegurar la reproductibilitat de la ciència són les dades obertes. En parlem a la secció següent.
 
 ## Referències
 
 Begley, C. G. (2013). An Unappreciated Challenge to Oncology Drug Discovery: Pitfalls in Preclinical Research. American Society of Clinical Oncology Educational Book, 33, 466–468. [https://doi.org/10.14694/EdBook_AM.2013.33.466](https://doi.org/10.14694/EdBook_AM.2013.33.466)
 
+Callaway, E. (2011). Report finds massive fraud at Dutch universities. Nature, 479(7371), 15–15. [https://doi.org/10.1038/479015a](https://doi.org/10.1038/479015a)
+
 Camerer, C. F., Dreber, A., Forsell, E., Ho, T.-H., Huber, J., Johannesson, M., Kirchler, M., Almenberg, J., Altmejd, A., Chan, T., Heikensten, E., Holzmeister, F., Imai, T., Isaksson, S., Nave, G., Pfeiffer, T., Razen, M., & Wu, H. (2016). Evaluating replicability of laboratory experiments in economics. Science, 351(6280), 1433–1436. [https://doi.org/10.1126/science.aaf0918](https://doi.org/10.1126/science.aaf0918)
 
 Fanelli, D. (2009). How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLoS ONE, 4(5), e5738. [https://doi.org/10.1371/journal.pone.0005738](https://doi.org/10.1371/journal.pone.0005738)
 
+National Academies of Sciences, Engineering, and Medicine (2019). Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25303](https://doi.org/10.17226/25303).
+
 Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716–aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
 
+Reinhart, Rogoff... and Herndon: The student who caught out the profs. (2013, April 19). BBC News. [https://www.bbc.com/news/magazine-22223190](https://www.bbc.com/news/magazine-22223190)
 
 # La gestió de dades i dades obertes
 
