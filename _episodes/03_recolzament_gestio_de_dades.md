@@ -51,7 +51,7 @@ Tot això són exemples, és clar, i podem trobar molts casos de serveis que no 
 Crec que pot ser útil veure un exemple específic de servei de dades de recerca en una institució concreta. El cas que conec millor és el de la biblioteca on treballo, així que us explicaré l'experiència de l'Oregon State University. Els recursos, prioritats i funcionament de cada biblioteca són diferents, així que només és un exemple, no necessàriament un model a seguir.
 En ser només un exemple, el contingut està només en format de vídeo.
 
-
+![Video d'exemple de serveis de suport a la gestió de dades de recerca de la Oregon State University](../fig/tema5_contingut1_exemple_serveis_suport_imatge_video.png)
 
 ## Referències usades en el text
 Cox, A. M., Kennan, M. A., Lyon, L., & Pinfield, S. (2017). Developments in research data management in academic libraries: Towards an understanding of research data service maturity. Journal of the Association for Information Science and Technology, 68(9), 2182–2200. https://doi.org/10.1002/asi.23781
