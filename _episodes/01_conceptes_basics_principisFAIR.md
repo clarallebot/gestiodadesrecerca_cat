@@ -239,8 +239,7 @@ A continuació teniu els principis FAIR (traducció de [Melero et al, 2018(http:
 * A1. Utilitzar protocols estandarditzats per poder recuperar dades i metadades mitjançant l’identificador.
 * A1.1 Els protocols han de ser oberts, gratuïts i universalment aplicables.
 * A1.2 Els protocols han de permetre, a més, un procediment d’autenticació i autorització, si cal.
-* A2. Garantir la disponibilitat d’accessibilitat de les metadades, encara que les dades ja no estiguin disponibles. Recomanacions de MareData 11
-
+* A2. Garantir la disponibilitat d’accessibilitat de les metadades, encara que les dades ja no estiguin disponibles. 
 
 **Interoperable** (interoperable):
 * I1. Utilitzar llenguatges formals (accessibles, compartits i normalitzats) per representar dades i metadades.
