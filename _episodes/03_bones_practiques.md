@@ -1,5 +1,5 @@
 ---
-title: Principis FAIR
+title: Bones pràctiques en gestió de dades
 teaching: 5
 exercises: 0
 questions:
