@@ -233,15 +233,21 @@ A continuació teniu els principis FAIR (traducció de [Melero et al, 2018(http:
 * F2. Descriure les dades amb metadades enriquides (és a dir, afegint-hi declaracions semàntiques, anotacions, etc., sobre les dades que descriuen, que milloren la qualitat de les metadades). 
 * F3. Registrar i indexar dades i metadades en un sistema (repositori, servei, etc.) que disposi de motor de cerca. 
 * F4. Incloure un element de metadades específic per a l’identificador persistent de les dades.
+
+
 **Accessible** (accessible):
 * A1. Utilitzar protocols estandarditzats per poder recuperar dades i metadades mitjançant l’identificador.
 * A1.1 Els protocols han de ser oberts, gratuïts i universalment aplicables.
 * A1.2 Els protocols han de permetre, a més, un procediment d’autenticació i autorització, si cal.
 * A2. Garantir la disponibilitat d’accessibilitat de les metadades, encara que les dades ja no estiguin disponibles. Recomanacions de MareData 11
+
+
 **Interoperable** (interoperable):
 * I1. Utilitzar llenguatges formals (accessibles, compartits i normalitzats) per representar dades i metadades.
 * I2. Descriure les dades i metadades amb vocabularis (esquemes, ontologies, etc.) que també segueixin els principis FAIR.
 * I3. Incloure referències encreuades i enllaços entre dades i metadades.
+
+
 **Reutilitzable** (reusable):
 * R1. Assegurar-se que les dades i metadades utilitzades tenen una varietat d’elements o atributs precisos i rellevants.
 * R1.1. Publicar dades i metadades amb una llicència de reutilització clara i accessible.
