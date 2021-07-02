@@ -222,12 +222,67 @@ El cas més comú en què les dades no s'haurien de publicar en obert és quan h
 
 # Els principis FAIR
 
+Com ja hem comentat a l'apartat anterior, dades accessibles amb llicències clares són dades obertes, però dades obertes no són necessàriament útils. Per assegurar-nos que siguin útils necessitem que les dades siguin de qualitat, que tinguin documentació, que siguin permanents i tinguin identificadors, que en sapiguem la procedència, que estiguin generades de forma ètica ... Tot això us resultarà familiar, és el que les biblioteques fan regularment amb altres tipus de continguts, i també s'ha de fer amb les dades de recerca.
 
+Els principis FAIR ([Wilkinson et al al 2016](https://doi.org/10.1038/sdata.2016.18)) es van desenvolupar amb l'objectiu d'aclarir aquestes qüestions. Com hem de compartir les dades de recerca perquè siguin útils i reutilitzables? Els principis FAIR indiquen que les dades han de ser localitzables, accessibles, interoperables, i reutilitzables.
+
+A continuació teniu els principis FAIR (traducció de [Melero et al, 2018(http://hdl.handle.net/10609/98347))
+
+**Localitzable** (findable):
+* F1. Assignar un identificador únic i persistent a les dades i metadades.
+* F2. Descriure les dades amb metadades enriquides (és a dir, afegint-hi declaracions semàntiques, anotacions, etc., sobre les dades que descriuen, que milloren la qualitat de les metadades). 
+* F3. Registrar i indexar dades i metadades en un sistema (repositori, servei, etc.) que disposi de motor de cerca. 
+* F4. Incloure un element de metadades específic per a l’identificador persistent de les dades.
+**Accessible** (accessible):
+* A1. Utilitzar protocols estandarditzats per poder recuperar dades i metadades mitjançant l’identificador.
+* A1.1 Els protocols han de ser oberts, gratuïts i universalment aplicables.
+* A1.2 Els protocols han de permetre, a més, un procediment d’autenticació i autorització, si cal.
+* A2. Garantir la disponibilitat d’accessibilitat de les metadades, encara que les dades ja no estiguin disponibles. Recomanacions de MareData 11
+**Interoperable** (interoperable):
+* I1. Utilitzar llenguatges formals (accessibles, compartits i normalitzats) per representar dades i metadades.
+* I2. Descriure les dades i metadades amb vocabularis (esquemes, ontologies, etc.) que també segueixin els principis FAIR.
+* I3. Incloure referències encreuades i enllaços entre dades i metadades.
+**Reutilitzable** (reusable):
+* R1. Assegurar-se que les dades i metadades utilitzades tenen una varietat d’elements o atributs precisos i rellevants.
+* R1.1. Publicar dades i metadades amb una llicència de reutilització clara i accessible.
+* R1.2. Utilitzar criteris de provenance (creació, atribució i historial de versions) per associar metadades a les dades durant el seu cicle de vida.
+* R1.3. Assegurar-se que els estàndards de dades i metadades utilitzats compleixen els estàndards comuns de l’àrea de coneixement a què es refereixen les dades.
+
+### Elements importants dels principis FAIR
+
+Hi ha unes quantes característiques dels principis FAIR que crec que és important destacar.
+
+Dades FAIR i dades obertes no són el mateix. Hi ha dades obertes que no compleixen els principis FAIR, i hi ha dades que compleixen aquests principis que no es poden posar en obert. Si voleu llegir més sobre el tema de dades que no es poden posar en obert i com gestionar-les a la bibliografia teniu uns quants articles que en parlen:
+
+* sobre què vol dir accessibilitat en els principis FAIR quan tenim subjectes humans ([Landi et al 2020](https://doi.org/10.1162/dint_a_00027))
+* sobre com compartir dades d'individus èticament ([Bull et al 2015](https://doi.org/10.1177/1556264615594767)). Aquest article és d'abans dels principis FAIR, així que no parla dels principis FAIR.
+
+**Els principis FAIR són una guia, són principis aspiracionals**. Aquests principis no es van fer amb la idea de crear un sistema mètric que ens digui si un conjunt de dades és bo (FAIR) o no (no FAIR). Al contrari, els principis pretenen ser una manera de millorar, i de guiar el desenvolupament de pràctiques, polítiques, recursos, etc. per maximitzar la reutilització de les dades de recerca ([Jacobsen et al, 2020](https://doi.org/10.1162/dint_r_00024)).
+
+Com que els principis FAIR són aspiracionals i generals, també són **imprecisos i vagues**. Això vol dir que s'han d'interpretar, i que **cada comunitat d'investigadors ha de fer la feina de decidir què vol dir FAIR per les seves dades**. Si busqueu a la literatura trobareu un munt d'articles publicats sobre aquest tema en diferents disciplines.
+
+> ## Vertader o fals?
+>
+> En general és recomanable aplicar els principis FAIR també a les metadades i al pla de gestió de dades. Cert o fals?
+>
+> > ## Solució
+> >
+> > Cert! Els principis FAIR són rellevants per a molt més que tan sols les dades mateixes. Es poden aplicar a la documentació de les dades i metadades, als plans de gestió de dades, i en general als objectes de recerca. És una de les recomanacions del document de Maredata. "Les metadades que descriuen les dades, així com el propi pla de gestió de les dades, en què es documenta tot el procés de gestió que seguirà el projecte per a les dades, també han de ser localitzables, accessibles, interoperables i reutilitzables en si mateixes."
+> >
+> {: .solution}
+{: .challenge}
+
+> ## Lectura recomanada
+>
+> El desembre del 2018 el projecte Maredata va publicar un document amb recomanacions per a la gestió de dades de recerca. El document va dirigit a investigadores i investigadors, però crec que és un document útil per entendre l'aplicabilitat dels principis FAIR, i el que comporta la gestió de dades de recerca per a una persona fent recerca. Si voleu aprendre més sobre els principis FAIR llegiu el document que podeu trobar a [http://hdl.handle.net/10609/98347](http://hdl.handle.net/10609/98347)
+{: .challenge}
 
 # Referències
 
 
 Begley, C. G. (2013). An Unappreciated Challenge to Oncology Drug Discovery: Pitfalls in Preclinical Research. American Society of Clinical Oncology Educational Book, 33, 466–468. [https://doi.org/10.14694/EdBook_AM.2013.33.466](https://doi.org/10.14694/EdBook_AM.2013.33.466)
+
+Bull, S., Roberts, N., & Parker, M. (2015). Views of Ethical Best Practices in Sharing Individual-Level Data From Medical and Public Health Research: A Systematic Scoping Review. Journal of Empirical Research on Human Research Ethics, 10(3), 225–238. [https://doi.org/10.1177/1556264615594767](https://doi.org/10.1177/1556264615594767)
 
 Callaway, E. (2011). Report finds massive fraud at Dutch universities. Nature, 479(7371), 15–15. [https://doi.org/10.1038/479015a](https://doi.org/10.1038/479015a)
 
@@ -237,6 +292,12 @@ Facts and Figures for open research data. (n.d.). [Text]. European Commission - 
 
 
 Fanelli, D. (2009). How Many Scientists Fabricate and Falsify Research? A Systematic Review and Meta-Analysis of Survey Data. PLoS ONE, 4(5), e5738. [https://doi.org/10.1371/journal.pone.0005738](https://doi.org/10.1371/journal.pone.0005738)
+
+Jacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., Courtot, M., Crosas, M., Dumontier, M., Evelo, C. T., Goble, C., Guizzardi, G., Hansen, K. K., Hasnain, A., Hettne, K., Heringa, J., Hooft, R. W. W., Imming, M., Jeffery, K. G., … Schultes, E. (2020). FAIR Principles: Interpretations and Implementation Considerations. Data Intelligence, 2(1–2), 10–29. [https://doi.org/10.1162/dint_r_00024](https://doi.org/10.1162/dint_r_00024)
+
+Landi, A., Thompson, M., Giannuzzi, V., Bonifazi, F., Labastida, I., da Silva Santos, L. O. B., & Roos, M. (2020). The “A” of FAIR – As Open as Possible, as Closed as Necessary. Data Intelligence, 2(1–2), 47–55. [https://doi.org/10.1162/dint_a_00027](https://doi.org/10.1162/dint_a_00027)
+
+Melero Melero, R., Abadal Falgueras, E., Aleixandre Garrido, R., Canals Parera, A., Ferrer, A., Hernández, A., López Borrull, A., Mazón López, J. N., Méndez Rodríguez, E., Ollé Castellà, C., & Peset, F. (2018). Recomanacions per a la gestió de dades de recerca dirigides a investigadors. 	[http://hdl.handle.net/10609/98347](http://hdl.handle.net/10609/98347)
 
 National Academies of Sciences, Engineering, and Medicine (2019). Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. [https://doi.org/10.17226/25303](https://doi.org/10.17226/25303).
 
@@ -254,29 +315,4 @@ The ups and downs of data sharing in science. (2016). Nature, 534(7608), 435–4
 
 Wiley (2014) The Access Compromise and the 5th R. Improving learning. [Blog post] [https://opencontent.org/blog/archives/3221](https://opencontent.org/blog/archives/3221)
 
-
-> ## Incís
-> 
-> Aquí explicarem un incís.
-> 
-{: .callout}
-
-> ## Exercici
->
-> Us proposo aquest exercici
->
-> > ## Solució
-> >
-> > Aquesta és la solució de l'exercici
-> >
-> {: .solution}
-{: .challenge}
-
-
-
-> ## Lectures recomanades
->
-> *   Article 1
->
-> *   Article 2
-{: .challenge}
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
