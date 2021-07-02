@@ -1,6 +1,6 @@
 ---
-title: Elements d'un pla de gestió de dades del programa Horizon 2020
-teaching: 5
+title: Curació de dades de recerca en repositoris
+teaching: 30
 exercises: 0
 questions:
 - "Quins són els elements necessaris d'un pla de gestió de dades?"
