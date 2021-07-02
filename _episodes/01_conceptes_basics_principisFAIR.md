@@ -1,6 +1,6 @@
 ---
-title: Conceptes bàsics
-teaching: 5
+title: Conceptes bàsics i principis FAIR
+teaching: 30
 exercises: 0
 questions:
 - "Què són les dades de recerca?"
