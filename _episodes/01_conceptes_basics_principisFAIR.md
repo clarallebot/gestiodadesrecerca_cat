@@ -74,9 +74,6 @@ Per exemple: una dada seria, la temperatura és 28. És útil aquesta dada? Em p
 {: .challenge}
 
 
-## Referències
-
-Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de las Moras Hervella, M., González Ballesteros, F., Corrales Correyero, J. (2015) Portal PAGODA: Plan de Gestión de Datos. Fesabid'15, XIV Jornadas Españolas de Documentación. Gijón, 28, 29 y 30 Mayo 2015. [http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf](http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf)
 
 # Què és la gestió de dades de recerca?
 
@@ -88,7 +85,7 @@ Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de 
 
 Aprofundim en aquesta definició.
 
-## Exemples
+### Exemples
 
 Les accions implicades en la gestió de dades poden ser molt diverses. Aquí en teniu uns exemples:
 * escriure un pla de gestió de dades
@@ -102,7 +99,7 @@ Les accions implicades en la gestió de dades poden ser molt diverses. Aquí en 
 * compartir dades
 * posar les dades en un repositori al final del projecte per garantir-ne la conservació i per compartir-les fàcilment
 
-## El cicle de vida de les dades
+### El cicle de vida de les dades
 
 Les dades passen per diferents estadis al llarg d'un projecte. És normal i adequat que les dades estiguin gestionades de diferent manera en diferents estadis. Per exemple, durant un projecte normalment l'accés a les dades el tenen només els membres del projecte. En el moment de publicar articles, tesis doctorals, llibres i altres materials es comparteixen les dades referents a la publicació amb el públic. Al final del projecte es comparteixen totes les dades, publicades o no.
 
@@ -112,7 +109,9 @@ Si busqueu per internet trobareu un munt de versions de cicles de vida de les da
 
 Figura: cicle de les dades científiques, elaborat pel grup de treball d'Accés Obert de la Red de Bibliotecas Universitarias (REBIUN)
 
-## Què no és la gestió de dades?
+
+
+### Què no és la gestió de dades?
 
 A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una llista de coses que no són sinònims de gestió de dades (tot i que poden ser part de la gestió de dades en alguns casos concrets).
 * big data. No només s'han de gestionar grans quantitats de dades. Conjunts de dades petits també s'han de gestionar bé.
@@ -138,13 +137,10 @@ A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una ll
 > {: .solution}
 {: .challenge}
 
-## Referències
-
-REBIUN (2016) Datos de investigación y acceso abierto. [https://ddd.uab.cat/record/165475](https://ddd.uab.cat/record/165475).  [Consulta: 2 juliol 2021].
 
 # Reproductibilitat
 
-## Context
+### Context
 
 Per parlar de reproductibilitat començarem introduint breument la feina de Brian Nosek, perquè és un investigador que ha parlat molt de temes de reproductibilitat. Però n'hi ha molts d'altres, evidentment. 
 
@@ -165,7 +161,7 @@ Figura: Gràfic de [Fanelli (2018)](https://doi.org/10.1371/journal.pone.0005738
 > 
 {: .callout}
 
-## Per què hi ha una crisi de reproductibilitat?
+### Per què hi ha una crisi de reproductibilitat?
 
 Hi ha moltes raons per les quals és difícil reproduir estudis científics. A vegades és perquè els científics són humans, i cometen errors. Vegeu, per exemple, el cas de l'estudiant que va descobrir un error en un article de gran prestigi, descrit en aquest article d'[Alexander R. (2013)](https://www.bbc.com/news/magazine-22223190). Altres vegades és perquè s'ha comès frau i les dades s'han fabricat, com en el cas del psicòleg Diederik Stapel, que va inventar les dades de més de 50 articles, vegeu un dels articles sobre el tema a [Callaway, 2011](https://doi.org/10.1038/479015a). En general, però, la preocupació ve del fet que la manca de reproducibilitat és deguda a un biaix estructural del sistema. Aquí en teniu uns quants elements:
 
@@ -175,7 +171,15 @@ Hi ha moltes raons per les quals és difícil reproduir estudis científics. A v
 
 La comunitat científica ha començat moltes estratègies per millorar la reproductibilitat i replicabilitat dels estudis científics. En el capítol 6 de [National Academies of Sciences, Engineering, and Medicine (2019)](https://doi.org/10.17226/25303) podeu trobar una explicació sobre moltes d'elles. La bona gestió de les dades durant la investigació i després de la investigació és una part fonamental per a generar investigacions reproduïbles. Un element molt important per assegurar la reproductibilitat de la ciència són les dades obertes. En parlem a la secció següent.
 
+
+
+# La gestió de dades i dades obertes
+
+# Els principis FAIR
+
 ## Referències
+
+
 
 Begley, C. G. (2013). An Unappreciated Challenge to Oncology Drug Discovery: Pitfalls in Preclinical Research. American Society of Clinical Oncology Educational Book, 33, 466–468. [https://doi.org/10.14694/EdBook_AM.2013.33.466](https://doi.org/10.14694/EdBook_AM.2013.33.466)
 
@@ -189,11 +193,12 @@ National Academies of Sciences, Engineering, and Medicine (2019). Reproducibilit
 
 Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716–aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716)
 
+Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de las Moras Hervella, M., González Ballesteros, F., Corrales Correyero, J. (2015) Portal PAGODA: Plan de Gestión de Datos. Fesabid'15, XIV Jornadas Españolas de Documentación. Gijón, 28, 29 y 30 Mayo 2015. [http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf](http://www.fesabid.org/gijon2015/www.fesabid.org/sites/default/files/repositorio/actas_fesabid_2015.pdf)
+
+REBIUN (2016) Datos de investigación y acceso abierto. [https://ddd.uab.cat/record/165475](https://ddd.uab.cat/record/165475).  [Consulta: 2 juliol 2021].
+
 Reinhart, Rogoff... and Herndon: The student who caught out the profs. (2013, April 19). BBC News. [https://www.bbc.com/news/magazine-22223190](https://www.bbc.com/news/magazine-22223190)
 
-# La gestió de dades i dades obertes
-
-# Els principis FAIR
 
 > ## Incís
 > 
