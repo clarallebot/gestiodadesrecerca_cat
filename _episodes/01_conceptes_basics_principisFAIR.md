@@ -59,7 +59,8 @@ Les dades per si soles normalment no són útils. Necessitem informació per int
 * diccionaris de dades amb les definicions, unitats etc. de les variables mesurades
 * questionaris 
 
-Per exemple: una dada seria, la temperatura és 28. És útil aquesta dada? Em podeu interpretar aquesta dada (és fred? o és calent?)?. Tot això no ho podeu fer si no teniu les metadades. Les unitats, on s'ha mesurat, en quin moment s'ha mesurat. Segons el tipus de recerca necessitarem saber també amb quin instrument s'ha mesurat, quin és el marge d'error, etc. 
+Per exemple: una dada seria, la temperatura és 28. És útil aquesta dada? Em podeu interpretar aquesta dada? És fred? O és calent? Tot això no ho podeu fer si no teniu les metadades. Les unitats, on s'ha mesurat, en quin moment s'ha mesurat. Segons el tipus de recerca necessitarem saber també amb quin instrument s'ha mesurat, quin és el marge d'error, etc. 
+
 
 > ## Vertader o fals?
 >
@@ -71,6 +72,7 @@ Per exemple: una dada seria, la temperatura és 28. És útil aquesta dada? Em p
 > >
 > {: .solution}
 {: .challenge}
+
 
 ## Referències
 
@@ -84,7 +86,55 @@ Pérez Aliende, M. L., Rasero Merino, V., Ortiz Uceta, E., Lopez Medina, A., de 
 > 
 {: .callout}
 
-Vegem els diferents elements d'aquesta definició
+Aprofundim en aquesta definició.
+
+## Exemples
+
+Les accions implicades en la gestió de dades poden ser molt diverses. Aquí en teniu uns exemples:
+* escriure un pla de gestió de dades
+* desar les dades amb noms de fitxers estructurats de tal manera que ens permetin saber què hi ha a cada fitxer fàcilment.
+* fer servir un programa de control de versions per gestiona les diferents versions de les dades o del programari creat per tractar les dades.
+* dissenyar un sistema que ens permeti mantenir tres còpies de seguretat de totes les dades del projecte
+* documentar els mètodes de col·lecció i anàlisi de les dades
+* tenir un sistema que ens permeti donar accés a les dades només a aquelles persones que n'hagin de tenir accés.
+* dissenyar un projecte de recerca de manera que es protegeixi els participants i se'n garanteixi un tractament just, digne i respectuós.
+* organitzar les dades de manera que es puguin entendre clarament, i reutilitzar
+* compartir dades
+* posar les dades en un repositori al final del projecte per garantir-ne la conservació i per compartir-les fàcilment
+
+## El cicle de vida de les dades
+
+Les dades passen per diferents estadis al llarg d'un projecte. És normal i adequat que les dades estiguin gestionades de diferent manera en diferents estadis. Per exemple, durant un projecte normalment l'accés a les dades el tenen només els membres del projecte. En el moment de publicar articles, tesis doctorals, llibres i altres materials es comparteixen les dades referents a la publicació amb el públic. Al final del projecte es comparteixen totes les dades, publicades o no.
+
+Si busqueu per internet trobareu un munt de versions de cicles de vida de les dades. Aquí en teniu una, elaborada pel grup de treball d'Accés Obert de la Red de Bibliotecas Universitarias (REBIUN).
+
+![El cicle de les dades científiques, elaborat pel grup de treball d'Accés Obert de la Red de Bibliotecas Universitarias (REBIUN). inclou els següents passos en cercle: Dissenyar, planificar, crear recollir i recol·lectar, descriure, processar, arxivar, seleccionar, preservar, accedir i usar, compartir, reutilitzar.](https://ddd.uab.cat/record/165475)
+
+Figura: cicle de les dades científiques, elaborat pel grup de treball d'Accés Obert de la Red de Bibliotecas Universitarias (REBIUN)
+
+## Què no és la gestió de dades?
+
+A vegades hi ha certa confusió amb el tema gestió de dades. Aquí teniu una llista de coses que no són sinònims de gestió de dades (tot i que poden ser part de la gestió de dades en alguns casos concrets).
+* big data. No només s'han de gestionar grans quantitats de dades. Conjunts de dades petits també s'han de gestionar bé.
+* administració de bases de dades
+* data science, o ciències informàtiques
+* el disseny d'un experiment: com recollir dades, o quines dades s'han de mesurar, o com dissenyar un experiment.
+
+> ## Pregunta amb resposta múltiple
+>
+> Quins dels següents exemples es poden considerar gestió de dades de recerca?
+> 
+>
+> > ## Solució
+> >
+> > A, B, D.
+> >
+> {: .solution}
+{: .challenge}
+
+## Referències
+
+REBIUN (2016) Datos de investigación y acceso abierto. https://ddd.uab.cat/record/165475.  [Consulta: 2 juliol 2021].
 
 
 # Reproductibilitat
