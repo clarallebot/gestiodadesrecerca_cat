@@ -266,32 +266,6 @@ Melero Melero, R., Abadal Falgueras, E., Aleixandre Garrido, R., Canals Parera, 
 
 OSTP, O. of S. and T. P. (2013, February 22). Expanding Public Access to the Results of Federally Funded Research. Whitehouse.Gov. [https://obamawhitehouse.archives.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research](https://obamawhitehouse.archives.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research)
 
-Programa Estatal de I+D+i Orientada a los Retos de la Sociedad | Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020 | Convocatorias—Agencia Estatal de Investigación (es). (n.d.). Retrieved July 5, 2021, from [http://www.aei.gob.es/portal/site/MICINN/menuitem.791459a43fdf738d70fd325001432ea0/?vgnextoid=3ba6fbd0ce7f4710VgnVCM1000001d04140aRCRD&vgnextchannel=b24e067c468a4610VgnVCM1000001d04140aRCRD&vgnextfmt=formato2&id3=d42265fd91705710VgnVCM1000001d04140a____](http://www.aei.gob.es/portal/site/MICINN/menuitem.791459a43fdf738d70fd325001432ea0/?vgnextoid=3ba6fbd0ce7f4710VgnVCM1000001d04140aRCRD&vgnextchannel=b24e067c468a4610VgnVCM1000001d04140aRCRD&vgnextfmt=formato2&id3=d42265fd91705710VgnVCM1000001d04140a____)
+Programa Estatal de I+D+i Orientada a los Retos de la Sociedad. Plan Estatal de Investigación Científica y Técnica y de Innovación 2017-2020. Convocatorias—Agencia Estatal de Investigación (es). (n.d.). Retrieved July 5, 2021, from [http://www.aei.gob.es/portal/site/MICINN/menuitem.791459a43fdf738d70fd325001432ea0/?vgnextoid=3ba6fbd0ce7f4710VgnVCM1000001d04140aRCRD&vgnextchannel=b24e067c468a4610VgnVCM1000001d04140aRCRD&vgnextfmt=formato2&id3=d42265fd91705710VgnVCM1000001d04140a____](http://www.aei.gob.es/portal/site/MICINN/menuitem.791459a43fdf738d70fd325001432ea0/?vgnextoid=3ba6fbd0ce7f4710VgnVCM1000001d04140aRCRD&vgnextchannel=b24e067c468a4610VgnVCM1000001d04140aRCRD&vgnextfmt=formato2&id3=d42265fd91705710VgnVCM1000001d04140a____)
 
 Universitat de Barcelona (2019) Política de gestió de dades de recerca de la Universitat de Barcelona. [http://diposit.ub.edu/dspace/bitstream/2445/142043/1/PUNT_8.5._Politica_Gestio_Dades_Recerca.pdf](http://diposit.ub.edu/dspace/bitstream/2445/142043/1/PUNT_8.5._Politica_Gestio_Dades_Recerca.pdf)
-
-> ## Incís
-> 
-> Aquí explicarem un incís.
-> 
-{: .callout}
-
-> ## Exercici
->
-> Us proposo aquest exercici
->
-> > ## Solució
-> >
-> > Aquesta és la solució de l'exercici
-> >
-> {: .solution}
-{: .challenge}
-
-
-
-> ## Lectures recomanades
->
-> *   Article 1
->
-> *   Article 2
-{: .challenge}
