@@ -110,33 +110,33 @@ Per començar, parlem sobre la informació que hem d'incloure respecte com compa
     * En el cas de formats que perden una part de la seva **funcionalitat** quan es guarden en formats de preservació, pot ser adequat incloure aquests formats en les dades que es compartiran. Per exemple, una base de dades d'Access s'hauria de preservar o transformant-la en fitxers csv, o usant un dels estàndards de preservació de base de dades. Però aquests formats no són tan útils, immediatament, com els fitxers d'Access, cal processar-los per obtenir la base de dades. En alguns casos pot ser acceptable compartir els fitxers Access directament, sempre que hi hagi una estratègia de preservació per separat. 
   * **Formats estàndard**: si hi ha un format estàndard en la disciplina científica, és molt aconsellable fer-lo servir. Per exemple els NetCDF en oceanografia, o els fitxers fasta en bioinformàtica.
 * Descriviu on es publicaran les dades. Les dades s'han de publicar en un repositori que faci possible que les dades compleixin els principis FAIR. Hi ha molts possibles llocs on depositar dades, uns millors que altres. Vegem-ne alguns
- * Ja hem explicat que compartir dades només quan altres investigadors les demanin no és una bona manera de compartir dades, i que s'hauria d'evitar en un pla de gestió de dades. 
- * Compartir les dades **en una pàgina web personal o de el projecte no és suficient**. Pot ser una bona manera de compartir dades (depenent de el cas) però no garanteix la preservació de les dades a llarg termini. Pot fer-se només si s'afegeix a altres mètodes més robustos.
- * **Publicar dades a ResearchGate o altres xarxes socials no és suficient**, encara que les xarxes socials siguin de temàtica científica. Té els mateixos problemes que hem descrit a l'apartat anterior.
- * **Publicar codi i dades a GitHub, GitLab, Bitbucket, o repositoris de codi similars és recomanable** quan es treballa amb codi o dades en format de text, perquè és una bona manera de controlar versions, i fa les dades localitzables i accessibles. Ajuden a gestionar les versions de les dades, i són una eina molt utilitzada en alguns camps i efectiva per compartir dades. Malgrat això, **posar les dades a GitHub no és suficient**. Aquestes empreses són empreses privades que no tenen l'objectiu de preservar les dades. Compleixen l'objectiu de compartir, però no l'objectiu de preservar. Si es fan servir, és important preservar una versió de el codi i dades que estiguin a GitHub en un repositori que n'asseguri la preservació a llarg termini. Hi ha molts repositoris que accepten aquest tipus de contingut (per exemple, la majoria de repositoris institucionals). Zenodo té una integració amb GitHub que pot ser una bona solució per projectes de recerca que fan ús de GitHub i altres repositoris similars.
- * Quan sigui possible, **les dades s'han de dipositar en repositoris**. Quin repositori? Depèn de la disciplina, de les dades, de la institució de l'investigador o investigadora, de la revista on es publiquin les dades, del mandat de l'agència financiadora. Si no hi ha cap obligació per depositar les dades en un repositori concret jo recomano triar un repositori d'acord amb aquests criteris, en ordre de preferència:
-  * Repositori específic de la disciplina científica.
-  * Si no és possible (e.g. no totes les disciplines tenen els seus dipòsits) en un repositori institucional
-  * Si no és possible (e.g. no totes les institucions tenen dipòsits institucionals) es poden posar en un repositori multidisciplinar.
-  * Altres.
-  * Podeu trobar una llista de repositoris a [re3data.org](https://www.re3data.org/).
- * En tot cas, és important triar un repositori de qualitat, i si s'escau justificar l'elecció al pla de gestió de dades. Per exemple, per a indicar que es tracta d'un repositori de qualitat es pot:
-  * Parlar de la política de preservació de l'repositori. Els bons repositoris haurien de tenir una política que expliqui per quant de temps es comprometen a preservar les dades. Això és especialment important amb repositoris nous. Alternativament es pot parlar de la permanença del repositori explicant qui el gestiona, i quant de temps ha existit.
-  * Explicar que el repositori proporcionarà un identificador únic per a les dades. Normalment un DOI.
-  * Explicar que el repositori proporciona una pàgina per les dades, on es poden consultar metadades sobre el conjunt de dades, incloent les dades necessàries per citar el conjunt de dades, i una llicència. 
-  * Si el repositori usa un estàndard per la documentació de les dades (tot i que no és gaire comú en els repositoris que no són específics per una disciplina).
-  * Explicar que el repositori està indexat, de manera que les dades es poden localitzar fàcilment (per exemple, en una cerca al Google).
-  * Si hi ha un procés de revisió de dades, indica que el repositori és de qualitat.
-  * Que el repositori indica la llicència de les dades.
-  * Si el repositori està certificat (com ara pel Core Trust Seal).
+  * Ja hem explicat que compartir dades només quan altres investigadors les demanin no és una bona manera de compartir dades, i que s'hauria d'evitar en un pla de gestió de dades. 
+  * Compartir les dades **en una pàgina web personal o de el projecte no és suficient**. Pot ser una bona manera de compartir dades (depenent de el cas) però no garanteix la preservació de les dades a llarg termini. Pot fer-se només si s'afegeix a altres mètodes més robustos.
+  * **Publicar dades a ResearchGate o altres xarxes socials no és suficient**, encara que les xarxes socials siguin de temàtica científica. Té els mateixos problemes que hem descrit a l'apartat anterior.
+  * **Publicar codi i dades a GitHub, GitLab, Bitbucket, o repositoris de codi similars és recomanable** quan es treballa amb codi o dades en format de text, perquè és una bona manera de controlar versions, i fa les dades localitzables i accessibles. Ajuden a gestionar les versions de les dades, i són una eina molt utilitzada en alguns camps i efectiva per compartir dades. Malgrat això, **posar les dades a GitHub no és suficient**. Aquestes empreses són empreses privades que no tenen l'objectiu de preservar les dades. Compleixen l'objectiu de compartir, però no l'objectiu de preservar. Si es fan servir, és important preservar una versió de el codi i dades que estiguin a GitHub en un repositori que n'asseguri la preservació a llarg termini. Hi ha molts repositoris que accepten aquest tipus de contingut (per exemple, la majoria de repositoris institucionals). Zenodo té una integració amb GitHub que pot ser una bona solució per projectes de recerca que fan ús de GitHub i altres repositoris similars.
+  * Quan sigui possible, **les dades s'han de dipositar en repositoris**. Quin repositori? Depèn de la disciplina, de les dades, de la institució de l'investigador o investigadora, de la revista on es publiquin les dades, del mandat de l'agència financiadora. Si no hi ha cap obligació per depositar les dades en un repositori concret jo recomano triar un repositori d'acord amb aquests criteris, en ordre de preferència:
+    * Repositori específic de la disciplina científica.
+    * Si no és possible (e.g. no totes les disciplines tenen els seus dipòsits) en un repositori institucional
+    * Si no és possible (e.g. no totes les institucions tenen dipòsits institucionals) es poden posar en un repositori multidisciplinar.
+    * Altres.
+    * Podeu trobar una llista de repositoris a [re3data.org](https://www.re3data.org/).
+  * En tot cas, és important triar un repositori de qualitat, i si s'escau justificar l'elecció al pla de gestió de dades. Per exemple, per a indicar que es tracta d'un repositori de qualitat es pot:
+    * Parlar de la política de preservació de l'repositori. Els bons repositoris haurien de tenir una política que expliqui per quant de temps es comprometen a preservar les dades. Això és especialment important amb repositoris nous. Alternativament es pot parlar de la permanença del repositori explicant qui el gestiona, i quant de temps ha existit.
+    * Explicar que el repositori proporcionarà un identificador únic per a les dades. Normalment un DOI.
+    * Explicar que el repositori proporciona una pàgina per les dades, on es poden consultar metadades sobre el conjunt de dades, incloent les dades necessàries per citar el conjunt de dades, i una llicència. 
+    * Si el repositori usa un estàndard per la documentació de les dades (tot i que no és gaire comú en els repositoris que no són específics per una disciplina).
+    * Explicar que el repositori està indexat, de manera que les dades es poden localitzar fàcilment (per exemple, en una cerca al Google).
+    * Si hi ha un procés de revisió de dades, indica que el repositori és de qualitat.
+    * Que el repositori indica la llicència de les dades.
+    * Si el repositori està certificat (com ara pel Core Trust Seal).
 * Descriviu **com es preservaran les dades**. Molt relacionat amb el com es compartiran les dades i on.
-  * Moltes vegades compartir i preservar es fa en un sol pas, quan es publiquen les dades en un repositori que comparteix i preserva les dades.
-  * Altres vegades compartir i preservar es fa per separat. Per exemple, si compartim les dades en GitHub, i els preservem en Zenodo. Zenodo també els comparteix, però segurament la via principal amb la qual altres investigadors trobaran les dades serà GitHub. O per exemple, si no compartim les dades perquè són dades de les quals n'hem de protegir la privacitat dels participants, però sí que les preservarem durant cinc anys, internament.
-  * És millor evitar dir que les dades es preservaran internament, perquè la preservació digital és complicada, i és millor deixar-ho pels professionals. Però de vegades és l'única opció (per exemple, si les dades no es poden posar en un repositori perquè hi ha dades personals). En aquest cas és important reconèixer que la preservació digital no és fàcil, i que hi haurà un pla de preservació. Per exemple, el pla pot especificar per quant de temps es preservaran les dades, i on. Pot identificar una persona responsable de la preservació. Poden delinear tasques que es faran sobre la preservació, com fer checksums als fitxers de manera recurrent, comprovar que les còpies de seguretat funcionen, o migrar les dades a un altre sistema si cal.
+   * Moltes vegades compartir i preservar es fa en un sol pas, quan es publiquen les dades en un repositori que comparteix i preserva les dades.
+   * Altres vegades compartir i preservar es fa per separat. Per exemple, si compartim les dades en GitHub, i els preservem en Zenodo. Zenodo també els comparteix, però segurament la via principal amb la qual altres investigadors trobaran les dades serà GitHub. O per exemple, si no compartim les dades perquè són dades de les quals n'hem de protegir la privacitat dels participants, però sí que les preservarem durant cinc anys, internament.
+   * És millor evitar dir que les dades es preservaran internament, perquè la preservació digital és complicada, i és millor deixar-ho pels professionals. Però de vegades és l'única opció (per exemple, si les dades no es poden posar en un repositori perquè hi ha dades personals). En aquest cas és important reconèixer que la preservació digital no és fàcil, i que hi haurà un pla de preservació. Per exemple, el pla pot especificar per quant de temps es preservaran les dades, i on. Pot identificar una persona responsable de la preservació. Poden delinear tasques que es faran sobre la preservació, com fer checksums als fitxers de manera recurrent, comprovar que les còpies de seguretat funcionen, o migrar les dades a un altre sistema si cal.
 * Descriviu **amb quina llicència es publicaran les dades**. És una de les maneres més inequívoques d'explicar bé en un pla de gestió de dades com es podran reutilitzar. Indica els permisos que donem a el públic per reutilitzar els daus i crear obres derivades. Llicències obertes, que es fan servir sovint són CC0 i CC-BY.
 * Amb quines **metadades o documentació es publicaran les dades**, i en quin format estaran les metadades.
-Les metadades han de complir les mateixes recomanacions que les dades en matèria de format
-Si hi ha metadades estàndard adequades per al projecte, s'han d'utilitzar. La Research Data Alliance va desenvolupar una llista de metadades per a dades científiques que es pot consultar a http://rd-alliance.github.io/metadata-directory/standards/
+  * Les metadades han de complir les mateixes recomanacions que les dades en matèria de format
+  * Si hi ha metadades estàndard adequades per al projecte, s'han d'utilitzar. La Research Data Alliance va desenvolupar una llista de metadades per a dades científiques que es pot consultar a http://rd-alliance.github.io/metadata-directory/standards/
 
 > ## Vertader o fals?
 >
@@ -189,27 +189,26 @@ Si hi ha metadades estàndard adequades per al projecte, s'han d'utilitzar. La R
 Hem parlat sobretot de compartir dades i de preservar dades. Què més hem d'explicar en un pla de gestió de dades? És útil incloure informació sobre la gestió de les dades durant el projecte. 
 
 * **Descriviu les dades** que es generaran durant el projecte. Ja hem dit que els plans de gestió de dades són normalment autocontinguts. És molt útil tenir una descripció breu de les dades que es generaran, normalment al principi del pla.
- * Pot ser útil dividir-les en grups, que diferenciïn conjunts de dades que es gestionaran de la mateixa manera. Per exemple, un grup amb dades de les quals n'hem de protegir els subjectes humans, i un altre grup amb dades que provenen d'instruments, que no s'han de protegir de cap manera especial. En la resta del pla és important assegurar-se que parlem de com gestionar cada un d’aquests grups. 
- * Es pot fer referència a l'objectiu de la recol·lecció de les dades, i en com estan relacionades amb els objectius de el projecte. Algunes agències finançadores dónen més importància que d'altres a aquest element. 
- * Tipus de dades generades, i formats de les dades. Per exemple, si són observacionals, experimentals, simulacions, dades derivades, etc.
- * Si el projecte utilitzarà dades generades per altres, explicar d'on provenen, i si hi ha qüestions relacionades amb la propietat intel·lectual que s'hagin de tenir en compte.
- * **Quantes dades es generaran**
-  * Encara que no se sàpiga, és important incloure una quantitat aproximada. És diferent gestionar 2 GB que 20 TB.
-
+  * Pot ser útil dividir-les en grups, que diferenciïn conjunts de dades que es gestionaran de la mateixa manera. Per exemple, un grup amb dades de les quals n'hem de protegir els subjectes humans, i un altre grup amb dades que provenen d'instruments, que no s'han de protegir de cap manera especial. En la resta del pla és important assegurar-se que parlem de com gestionar cada un d’aquests grups. 
+  * Es pot fer referència a l'objectiu de la recol·lecció de les dades, i en com estan relacionades amb els objectius de el projecte. Algunes agències finançadores dónen més importància que d'altres a aquest element. 
+  * Tipus de dades generades, i formats de les dades. Per exemple, si són observacionals, experimentals, simulacions, dades derivades, etc.
+  * Si el projecte utilitzarà dades generades per altres, explicar d'on provenen, i si hi ha qüestions relacionades amb la propietat intel·lectual que s'hagin de tenir en compte.
+  * **Quantes dades es generaran**
+    * Encara que no se sàpiga, és important incloure una quantitat aproximada. És diferent gestionar 2 GB que 20 TB.
 * Responsabilitats:
- * Indica qui és la persona responsable del compliment del pla de gestió de dades. Normalment és l'investigador principal del projecte.
-  * És important NO dir que "tots els investigadors de el projecte són responsables de la bona gestió de dades". Quan tots són responsables vol dir que ningú acaba sent responsable. El responsable de la implementació de el pla de dades hauria de ser una persona o dues.
- * Quines altres responsabilitats tenen altres persones. Segons el projecte tindrà sentit o no parlar de segons quins responsabilitat. Exemples de responsabilitats que es poden comentar:
-  * Recollida de dades
-  * Manteniment d'instruments i / o programari
-  * Creació de metadades
-  * Control de qualitat
-  * Compartir i preservar dades
-  * Fer còpies de seguretat
-  * Controlar l'accés a les dades
- * Pla de contingència. Què passa si algun dels membres del projecte marxa? Qui es responsabilitza per les tasques de gestió de dades que la persona hauria de fer? 
+  * Indica qui és la persona responsable del compliment del pla de gestió de dades. Normalment és l'investigador principal del projecte.
+    * És important NO dir que "tots els investigadors de el projecte són responsables de la bona gestió de dades". Quan tots són responsables vol dir que ningú acaba sent responsable. El responsable de la implementació de el pla de dades hauria de ser una persona o dues.
+  * Quines altres responsabilitats tenen altres persones. Segons el projecte tindrà sentit o no parlar de segons quins responsabilitat. Exemples de responsabilitats que es poden comentar:
+    * Recollida de dades
+    * Manteniment d'instruments i / o programari
+    * Creació de metadades
+    * Control de qualitat
+    * Compartir i preservar dades
+    * Fer còpies de seguretat
+    * Controlar l'accés a les dades
+  * Pla de contingència. Què passa si algun dels membres del projecte marxa? Qui es responsabilitza per les tasques de gestió de dades que la persona hauria de fer? 
 * Emmagatzematge i còpies de seguretat durant el procés d'investigació.
- * En general es recomanen tres còpies: una local (l'ordinador on es treballa), una d'externa (e.g. un disc dur extern) i una remota (e.g. en el núvol, o emmagatzematge gestionat per la universitat). Si el volum de dades és molt alt, això pot no ser possible.
+  * En general es recomanen tres còpies: una local (l'ordinador on es treballa), una d'externa (e.g. un disc dur extern) i una remota (e.g. en el núvol, o emmagatzematge gestionat per la universitat). Si el volum de dades és molt alt, això pot no ser possible.
 * Protecció de dades personals. 
 
 > ## Pregunta
