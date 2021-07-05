@@ -3,7 +3,7 @@ layout: lesson
 root: .
 ---
 
-Benvinguts i benvingudes al taller de gestió de dades de recerca i curació de dades per a professionals de la informació. Aquest curs ha estat organitzat pel Consorci de Serveis Universitaris de Catalunya (CSUC), i impartit per la Clara Llebot, Data Management Specialist a la Oregon State University. 
+Benvinguts i benvingudes al taller de gestió de dades de recerca i curació de dades per a professionals de la informació. Aquest curs ha estat organitzat pel Consorci de Serveis Universitaris de Catalunya (CSUC) i la institució CERCA, i impartit per la Clara Llebot, Data Management Specialist a la Oregon State University. 
 
 Aquest taller explora bones pràctiques en la gestió de dades de recerca, i les diferents maneres com els professionals de la informació poden recolzar els investigadors i investigadores per una millor gestió de les dades. 
 
@@ -11,8 +11,7 @@ Gestionar dades de recerca inclou tenir en compte consideracions ètiques quan e
 
 > ## Prerequisits
 >
-> Aquest curs està pensat per professionals de la informació que tenen
-> coneixements de biblioteconomia i documentació. No és necessari tenir
+> Aquest curs està pensat per professionals de la informació i tècnics de suport de recerca. No és necessari tenir
 > coneixements sobre dades de recerca, però estar familiaritzats amb 
 > l'activitat acadèmica és útil.
 {: .prereq}
