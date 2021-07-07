@@ -49,7 +49,7 @@ Malauradament, no ho podem guardar i preservar tot. És important treballar amb 
 * **replicabilitat**. Si no és possible replicar l'estudi, o fer-ho significaria tenir costos alts, és convenient preservar les dades.
 * **reproductibilitat**. Les dades fan possible la reproductibilitat de l'estudi.
 * **costos**. els costos estimats per mantenir i preservar el recurs s'han avaluat, i són adequats tenint en compte els possibles beneficis de preservar. Hi ha finançament disponible.
-* **documentació**: hi ha documentació que permet que les dades siguin localitzats, es puguin accedir, i siguin reutilitzats.
+* **documentació**: hi ha documentació que permet que les dades siguin localitzats, es puguin accedir, i siguin reutilitzades.
 
 ### Assegurar-se que les dades es poden compartir en un repositori
 
