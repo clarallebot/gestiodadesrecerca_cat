@@ -209,7 +209,7 @@ Hem parlat sobretot de compartir dades i de preservar dades. Què més hem d'exp
   * Pla de contingència. Què passa si algun dels membres del projecte marxa? Qui es responsabilitza per les tasques de gestió de dades que la persona hauria de fer? 
 * Emmagatzematge i còpies de seguretat durant el procés d'investigació.
   * En general es recomanen tres còpies: una local (l'ordinador on es treballa), una d'externa (e.g. un disc dur extern) i una remota (e.g. en el núvol, o emmagatzematge gestionat per la universitat). Si el volum de dades és molt alt, això pot no ser possible.
-* Protecció de dades personals. 
+* Protecció de dades personals. Si el projecte recull dades personals, o dades sensitives de qualsevol tipus, s'ha de parlar de què es farà per protegir les dades i els participants. Vegem-ne més detalls a la següent secció.
 
 > ## Pregunta
 >
@@ -224,6 +224,37 @@ Hem parlat sobretot de compartir dades i de preservar dades. Què més hem d'exp
 > >
 > {: .solution}
 {: .challenge}
+
+## Plans de gestió de dades en projectes amb subjectes humans i la GDPR
+
+Quan els projectes de recerca inclouen treballar amb informació personal la gestió de dades es complica. Els investigadors han de assegurar-se que la investigació es fa de manera ètica, i també han de assegurar-se que compleixen amb totes les lleis, les nacionals i les de la Unió Europea. La llei nacional rellevant és la [Llei Orgànica 3/2018 de 5 de Desembre de Protecció de Dades Personals i garantia de drets digitals](https://www.boe.es/eli/es/lo/2018/12/05/3). La llei europea rellevant és el [Reglament (UE) 2016/679, la General Data Protection Regulation o GDPR](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016R0679&from=ES). Un bon DMP hauria resumir a grans trets com es tractaran les dades personals per protegir els participants.
+
+Podeu trobar les versions oficials de la GDPR [aquí](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0679-20160504) (inclosa la versió anglesa i la versió en castellà), i una traducció no oficial de la GDPR al català de la Generalitat [aquí](https://apdcat.gencat.cat/web/.content/03-documentacio/Reglament_general_de_proteccio_de_dades/documents/RGPD-Cat.pdf).
+
+En aquesta lliçó no parlarem en gran detall de la GDPR, s'escapa dels objectius, però sí
+ que parlarem breument dels elements que hauríem d'incloure en un pla de gestió
+ de dades per un projecte que contingui dades personals.
+
+La **protecció de la privacitat de subjectes d'investigació és una raó perfectament vàlida, i que no s'ha d'ignorar, per a NO compartir dades**, o per limitar amb qui es comparteixen les dades, quines dades es comparteixen, i de quina manera. De vegades els investigadors tenen por de dir que no compartiran dades, perquè pensen que no els donaran el projecte si diuen això. Al contrari, és important no compartir dades quan no s'ha de fer. El programa l'Horizon 2020, per exemple, es regeix pel principi "as open as possible, es closed as necessary".
+
+El **consentiment informat** és un element molt important per a la gestió ètica i legal de les dades. En un pla de gestió de dades no cal copiar tot el contingut d'aquest document, però és aconsellable explicar-ne els punts fonamentals, per demostrar que dominem els detalls, i que sabem que aquests s'han d'explicar de forma transparent als participants en la investigació. 
+
+La GDPR només permet **reutilitzar dades personals si s'usen per la mateixa finalitat per la qual es van recollir**. Si posem les dades en obert, és impossible controlar com es faran servir. I també és difícil garantir moltes de les mesures de protecció de la privacitat dels subjectes. 
+* A vegades això es pot solucionar **de-identificant les dades**: recollint dades anònimes directament o eliminant els identificadors de les dades quan les posem en obert. Hem de tenir en compte que moltes vegades eliminar els identificadors de les dades no és suficient, perquè segons el tipus de recerca pot ser fàcil re-identificar els subjectes. També hem de tenir en compte que no n'hi ha prou amb l'eliminació d'identificadors directes (nom, números d'identitat, adreça, etc), sinó que els identificadors indirectes, combinats, també poden identificar les persones. En general es considera que amb tres identificadors indirectes (gènere, alçada, pes, feina, àrea geogràfica, orientació sexual, raça, etc) n'hi ha prou per re-identificar participants. 
+* Sovint, l'única opció per compartir les dades és dissenyar una estratègia híbrida en la qual **només es comparteixen públicament les metadades**, no les dades, de manera que les dades són localitzables però no estan accessibles a tothom. És important que les metadades incloguin informació específica, a ser possible permanent, sobre el procés a seguir si hi ha un investigador que vol accés a les dades (e.g amb qui s'ha de contactar, i com).  També és important explicar quins són els requisits que s'hauran de complir per tenir accés a les dades (per exemple, signar un conveni en el qual l'investigador concret es compromet a una sèrie de coses, com ara a no intentar identificar els participants, a no intentar contactar amb ells, a no compartir les dades, a publicar només informació agregada sobre les dades, etc.) Aquesta informació hauria d'aparèixer en un pla de gestió de dades. 
+
+El pla de gestió de dades a vegades s’ha de redactar abans que el projecte s'hagi sotmès a **revisió per un comitè ètic**. En aquests casos no està de més explicar al pla de gestió de dades que tot el que s'hi diu pot ser modificat si el comitè ètic decideix que no és adequat. També és molt recomanable contactar amb el comitè ètic abans d'escriure el pla si es tenen dubtes, per evitar sorpreses i començar amb un pla de gestió de dades realista.
+
+A vegades hi ha investigacions que no inclouen subjectes humans però que tracten amb **dades que s'han de protegir**. Per exemple, un estudi sobre la localització d'espècies en perill d'extinció que estan en perill per culpa de la caça il·legal. En aquests casos pot ser adequat protegir les dades de formes similars a les que hem descrit (no compartir les dades, o compartir-només quan se signa un acord d'ús de les dades).
+
+> ## Més informació
+>
+> Us recomano veure aquesta presentació de Jacques Flors Dourojeanni sobre l'ús de dades personals en investigació (en anglès). Jacques Flores Dourojeanni (2020) GDPR and Sharing Data. OpenAIRE legal policy Webinar.
+Presentació a [https://www.slideshare.net/OpenAIRE_eu/20200429openaire-legal-policy-webinar-gdpr-and-sharing-data](https://www.slideshare.net/OpenAIRE_eu/20200429openaire-legal-policy-webinar-gdpr-and-sharing-data)
+Gravació a [https://www.youtube.com/watch?v=85x6Rigl2-o](https://www.youtube.com/watch?v=85x6Rigl2-o) a partir del minut 48 fins al minut 60.
+>
+{: .challenge}
+
 
 # Exemples de pla de gestió de dades
 
