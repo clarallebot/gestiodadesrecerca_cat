@@ -20,23 +20,92 @@ key points:
 -  "En organitzar dades en un full de càlcul hem de guardar les dates fent servir un estàndard o separant Dia, Mes i Any en columnes diferents"
 -  "En organitzar dades en un full de càlcul hem de generar documentació per assegurar la reproductibilitat del projecte"
 ---
-### Bones pràctiques en gestió de dades
+# La curació de dades de recerca
+
+> ## Incís
+> 
+> Quan parlem de curació de dades d'investigació parlem d'"una sèrie d'accions i feines realitzades per part dels curadors en un repositori de dades perquè l'accés a les dades perduri amb el temps i sigui significatiu" (la meva traducció, de [Johnston et al 2016](https://hdl.handle.net/11299/188638)).
+> 
+{: .callout}
+
+Hi ha estudis que han analitzat la qualitat de les dades en repositoris, i han vist que quan no hi ha curació o la curació és opcional, la qualitat de les dades és menor que si hi ha almenys un curador. Per exemple, en l'estudi de [Koshoffer (2018)](http://dx.doi.org/10.2218/ijdc.v13i1.632) el nombre de conjunts de dades sense documentació era de més de l'80% en dipòsits que no tenen curació o amb curació opcional, i menys de l'20% en repositoris amb algun tipus de curació.
+
+# Elements de la curació de dades
+
+Quan curem dades per a un repositori millorem, revisem i de vegades creem contingut en 3 elements:
+* **El registre**: aquestes són les metadades estructurades que formen part del repositori. Aquest tipus d'informació es captura en general per a tots els tipus de contingut en un repositori, incloses dades. Alguns exemples de les metadades incloses en el registre són autor, data, identificador, cita, abstract, llicència, llengua, drets, paraules clau o subject, títol, etc
+* **La documentació**: aquests són fitxers que expliquen amb detall la informació continguda en les dades. Aquests també són metadades, però per distingir-los de les metadades de l'registre em referiré a aquests arxius amb la paraula documentació. La majoria de la informació continguda en el registre també està inclosa en la documentació, però la documentació inclou més informació. Per exemple, la documentació pot incloure una llista de les variables presents en les dades, i la seva definició. En alguns repositoris, especialment repositoris dedicats a disciplina específica, que requereixen dipositar documentació amb formats estàndards molt concrets, la documentació i el registre són el mateix.
+* **Les dades**: els fitxers amb dades.
+
+Podeu trobar una llista de les diferents activitats que es realitzen quan es curen dades a la pàgina web de el Data Curation Network [https://datacurationnetwork.org/data-curation-activities/](https://datacurationnetwork.org/data-curation-activities/). El Data Curation Network és un projecte que té la missió de facilitar el suport als investigadors per part de repositoris de dades. Els esmentarem en diverses ocasions durant aquestes lliçons perquè han fet molta feina per definir el procés de curació de dades d'investigació en un repositori.
+
+# Curar els fitxers de dades
+
+En aquesta lliçó ens centrarem en la curació dels fitxers de dades, el tercer element de la llista anterior. En la propera lliçó parlarem del registre i la documentació. Curar els fitxers de dades inclou una sèrie d'activitats.
+
+### Selecció de dades
+
+Malauradament, no ho podem guardar i preservar tot. És important treballar amb l'investigador per assegurar-se que les dades escollides per compartir en el repositori són les adequades. Haurem d'avaluar els següents criteris (Whyte, 2010):
+* **rellevància per a la missió i objectius del repositori**
+* **valor científic o històric de les dades**
+* **si les dades són úniques**. Si no ho són, perquè han estat obtingudes d'altres fonts, haurem d'avaluar si les altres fonts ofereixen garanties de preservació. Si aquestes garanties són raonables, podem simplement citar les fonts en comptes de preservar les dades de nou. Si la investigació va posar molta feina en reorganitzar les dades, incorporar-les amb dades de diverses fonts, canviar-les i tractar-les, pot ser convenient preservar-les. En general és aconsellable que no hi hagi diferents versions de les mateixes dades (a no ser que hi hagi un motiu, i en aquest cas les versions han d'estar ben documentades).
+* **potencial de redistribució**. Avaluarem la integritat i usabilitat de les dades. Per exemple, si els formats són adequats perquè altres facin servir les dades.
+* **replicabilitat**. Si no és possible replicar l'estudi, o fer-ho significaria tenir costos alts, és convenient preservar les dades.
+* **reproductibilitat**. Les dades fan possible la reproductibilitat de l'estudi.
+* **costos**. els costos estimats per mantenir i preservar el recurs s'han avaluat, i són adequats tenint en compte els possibles beneficis de preservar. Hi ha finançament disponible.
+* **documentació**: hi ha documentació que permet que les dades siguin localitzats, es puguin accedir, i siguin reutilitzats.
+
+### Assegurar-se que les dades es poden compartir en un repositori
+
+Si són dades d'un projecte que inclou **dades personals**, ens hem d'assegurar que el comitè d'ètica corresponent ha autoritzat que es comparteixin les dades, i en quina forma. Ens hem d'assegurar que es poden compartir tenint en compte la GDPR.
+
+Si hi ha restriccions (e.g. les dades només poden compartir si no hi ha identificadors), hem de comprovar que s'hagin aplicat. Cal recordar, en aquest punt, que tot i que és un procés important, i el curador pot ser de gran ajuda per identificar aquests problemes, la responsabilitat final és de l'investigador, que és el que ha de conèixer a fons què pot o no fer amb les dades recol·lectades.
+ 
+Si hi ha algun problema de **propietat intel·lectual** que s'hagi de resoldre. Per exemple, si hi ha dades reutilitzades d'altres fonts, hem d'assegurar-nos que l'investigador té permís per redistribuir-les. O si hi ha dades que estan protegides per drets d'autor, i els drets pertanyen a una altra persona, hem de tenir permís per redistribuir-les.
+
+### Format
+
+El potencial de preservació a llarg termini dependrà en gran mesura de el format del fitxer. Un exemple personal: en el nostre repositori ens hem trobats amb fitxers Excel que van ser guardats com a material suplementari de tesis doctorals fa 10-15 anys, i que és impossible obrir, l'ordinador es penja quan ho intentem. No té cap sentit guardar aquests fitxers.
+ 
+Ja hem parlat a la secció dels plans de gestió de dades sobre els formats ideals : formats oberts, que funcionen independentment del sistema operatiu, que no són propietaris, formats que no perdin informació i que no estiguin encriptats o protegits amb paraules clau. 
+
+> ## Recursos
+>
+> Podeu consultar una llista de formats comuns de fitxers en aquesta pàgina de la Cornell University Library, en la que separen els fitxers segons la probabilitat de preservació [https://guides.library.cornell.edu/ecommons/formats](https://guides.library.cornell.edu/ecommons/formats) Si voleu més informació sobre formats, la Library of Congress té una pàgina web amb informació sobre formats per alguns tipus de fitxers a [https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml](https://www.loc.gov/preservation/digital/formats/fdd/descriptions.shtml).
+{: .challenge}
+
+Els fitxers de Microsoft Office es mereixen un esment especial, perquè són molt usats. Word, Excel, Access, Power point, etc. no són formats oberts, i són formats propietat d'una empresa, no són formats apropiats per a maximitzar la preservació digital. Sempre que es pugui s'haurien d'evitar. En la majoria d'ocasions es poden convertir a altres formats fàcilment.
+* Un fitxer **Word** es pot convertir en un fitxer de text ASCII (en què es perdrà la majoria de el format) o en un pdf (en el qual es preservarà el format).
+* Un fitxer **Excel** es pot convertir en un fitxer csv (comma separated values). Haurem de generar un fitxer per full de càlcul. En transformar un Excel en csv podem perdre el format (colors, negreta, etc.), perdrem macros, figures, equacions, etc. No obstant això, els elements que perdem poden ser, precisament, els que fan que la informació en Excel no sigui reproduïble. Són els elements que haurien d'estar documentats en la documentació (el cas de les equacions), o en forma d'altres arxius (el cas de les figures). Parlarem més d'Excel en aquest tema. 
+* Una base de dades en **Access**. Les bases de dades relacionals són un tipus de dades que no és trivial preservar. En el millor dels casos, si la base de dades és relativament simple, les dades es poden separar en taules, guardades en csv, i posar la documentació sobre les relacions entre les taules en els fitxers de documentació. Si la base de dades conté moltes taules i relacions complexes separar-les en taules no serà una opció pràctica. Hi ha estàndards de preservació de bases de dades relacionals, SIARD i CHRONOS, que guarden la informació en format XML. Per més informació sobre la preservació de bases de dades relacionals podeu consultar l'informe de [Day Thomson (2016)](http://dx.doi.org/10.7207/twr16-02).
+
+A vegades és molt difícil canviar el format de les dades, i no és raonable demanar a l'investigador que ho canviï. Per exemple, si hi ha codi en un programa que no és obert, com Matlab, traduir-lo a un altre llenguatge és una quantitat de treball enorme. Depèn de l'criteri de l'curador i de les polítiques del repositori decidir si és obligatori canviar el format en aquests casos. Personalment, en el cas del nostre repositori institucional, jo prefereixo que les dades i metadades es preservin al repositori, però els explico el problema perquè puguin canviar els formats des del principi en el seu pròxim projecte.
+
+### Organització i consistència de les dades
+
+És important que les dades estiguin ben organitzades. Persones alienes al projecte (que entenguin la disciplina), han de poder entendre les dades només veient els fitxers i consultant la documentació. Contactar l'autor no ha de ser necessari. Encara que és difícil definir exactament què vol dir que les dades estiguin ben organitzades per a qualsevol tipus de dades, aquesta és una llista dels elements a considerar.
+
+* **Noms de fitxers**: els noms dels fitxers i carpetes han de ser informatius. És preferible que no tinguin caràcters especials (incloent accents i espais en blanc).
+* En la documentació ha d'haver una **descripció del contingut de cada un dels fitxers**.
+* L'organització de la informació en cada un dels fitxers ha de ser ordenada, o el que anomenem **"tidy data"**. Parlem de ´tidy data´i l'organització de dades en la següent secció.
 
 
-### Tidy data i fulls de càlcul
+# Dades ordenades, ´tidy data´ i fulls de càlcul
 
-
-### Organitzar dades en un full de càlcul
-
-L'objectiu aquí és parlar de tidy data en general. Però parlar en general és abstracte, i ja hem parlat molt en general en el tema anterior. Aquí farem servir els fulls de càlcul com a exemple d'un tipus de dades en particular, però els conceptes apresos es poden aplicar a altres tipus de dades. Els fulls de càlcul són un exemple útil per parlar de tidy data, perquè són una eina molt habitual, usada per molts investigadors. La majoria dels professionals de biblioteques també estan familiarizats amb dades en forma de taula.
+L'objectiu aquí és parlar de tidy data en general. Però parlar en general és abstracte, i ja hem parlat molt en general en les seccions anterior. Aquí farem servir els fulls de càlcul com a exemple d'un tipus de dades en particular, però els conceptes apresos es poden aplicar a altres tipus de dades. Els fulls de càlcul són un exemple útil per parlar de tidy data, perquè són una eina molt habitual, usada per molts investigadors. 
  
 A més de ser un exemple per parlar de tidy data, vull parlar de fulls de càlcul per introduir-vos a les Carpentries. Les Carpentries (The Carpentries [https://carpentries.org/](https://carpentries.org/)) és una organització sense ànim de lucre que té com a objectiu ensenyar eines computacionals relacionades amb dades a investigadors al voltant de el món. Dues de les coses que crec que són útils per al recolzament a la recerca:
 
-* Tenen una sèrie de lliçons obertes per a tothom, amb llicències CC-BY. Les podeu trobar a la seva pàgina web al menú "Teach", dividides en Data Carpentry lessons, Software Carpentry lessons, i Library Carpentry lessons. Algunes d'elles estan traduïdes al castellà. Són lliçons que la comunitat de voluntaris de les Carpentries ha desenvolupat, i s'encarrega de mantenir. Són lliçons que es fan servir sovint, i per això estan a el dia, i molt polides. Molts i moltes bibliotecaris fan servir aquestes lliçons per organitzar tallers que són part dels data services de la biblioteca. Desenvolupar una lliçó porta temps, i moltes vegades no sóm experts en aquests temes, però en sabem prou per donar lliçons introductòries. Per això val molt la pena saber de l'existència d'aquestes lliçons. El contingut d'aquesta lliçó és una adaptació de la lliçó [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+* Tenen una sèrie de lliçons obertes per a tothom, amb llicències CC-BY. Les podeu trobar a la seva pàgina web al menú "Teach", dividides en Data Carpentry lessons, Software Carpentry lessons, i Library Carpentry lessons. Algunes d'elles estan traduïdes al castellà. Són lliçons que la comunitat de voluntaris de les Carpentries ha desenvolupat, i s'encarrega de mantenir. Són lliçons que es fan servir sovint, i per això estan a el dia, i molt polides. Molts i moltes bibliotecaris fan servir aquestes lliçons per organitzar tallers que són part dels data services de la biblioteca. Desenvolupar una lliçó porta temps, i moltes vegades no sóm experts en aquests temes, però en sabem prou per donar lliçons introductòries. Per això val molt la pena saber de l'existència d'aquestes lliçons. El contingut d'aquesta secció és una adaptació de la lliçó [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/). I si fullegeu les lliçons veureu que el format és el mateix que el d'aquesta lliçó, hem fet servir les seves plantilles per crear aquesta pàgina web. 
 
-* Les Carpentries tenen un programa per formar instructors. Es pot fer en línia, i és gratuït . Entre altres coses, el programa ensenya com aprenen els adults, i estratègies docents que són molt útils per a persones que poden no haver tingut mai formació de docent. En el meu cas, va ser una experiència transformadora.
-* 
-Si voleu, en comptes de llegir aquesta lliçó (reorganitzada, resumida i traduïda), podeu seguir directament la lliçó de les Carpentries: [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/). Tingueu en compte que la lliçó original de les Carpentries està pensada per fer-la amb un instructor, no per seguir-la des de la pàgina web. Dit això, jo crec que són molt útils si es segueixen per la pàgina web. 
+* Les Carpentries tenen un programa per formar instructors. Es pot fer en línia, i és gratuït . Entre altres coses, el programa ensenya com aprenen els adults, i estratègies docents que són molt útils per a persones que poden no haver tingut mai formació de docent. 
+
+> ## Incís
+> 
+> Si voleu, en comptes de llegir aquesta lliçó (reorganitzada, resumida i traduïda), podeu seguir directament la lliçó de les Carpentries: [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/). Tingueu en compte que la lliçó original de les Carpentries està pensada per fer-la amb un instructor, no per seguir-la des de la pàgina web. Dit això, jo crec que són molt útils si es segueixen per la pàgina web. 
+> 
+{: .callout}
+
 
 ### Organitzar dades en un full de càlcul
 
@@ -120,6 +189,15 @@ Finalment, per garantir que el fitxer de dades perduri amb el temps hauríem de 
 La forma més clara de guardar les dates és tenir una columna per a cada element: any, mes, dia, i hora, minut, segon si són necessaris. D'aquesta manera no hi haurà confusions amb diferents estàndards ( fem servir dd / mm / yyyy o mm / dd / yyyy?), o errors deguts a diferents programes i sistemes operatius.
 
 En general, quan es tenen dades que inclouen dates (una situació molt comú) val la pena recordar que hi ha un estàndard per dates, l'ISO 8601 segons el qual el format adequat és yyyy-mm-dd. Les pàgines de la Wikipedia en [castellà](https://es.wikipedia.org/wiki/ISO_8601) o [anglès](https://en.wikipedia.org/wiki/ISO_8601) tenen molta informació sobre com utilitzar l'estàndard.
+
+# Referències
+
+Day Thomson, S.. (2016). Preserving Transactional Data [DPC Technology Watch Report]. Digital Preservation Coalition. [http://dx.doi.org/10.7207/twr16-02](http://dx.doi.org/10.7207/twr16-02)
+
+Johnston, L.R., Carlson, J, Hudson-Vitale, C., Imker, H., Kozlowski, W., Olendorf, R., Steward, C. (2016) Definitions of data curation activities used by the Data Curation Network. Retrieved from the University of Minnesota Digital Conservancy, [https://hdl.handle.net/11299/188638](https://hdl.handle.net/11299/188638). 
+
+Koshoffer, A., Neeser, A., Newman, L., & Johnston, L. R. (2018). Giving datasets context: a comparison study of institutional repositories that apply varying degrees of curation. IJDC, 13(1), 15-34. [http://dx.doi.org/10.2218/ijdc.v13i1.632](http://dx.doi.org/10.2218/ijdc.v13i1.632)
+
 
 > ## Incís
 > 
