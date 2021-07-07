@@ -41,7 +41,7 @@ En aquesta lliçó ens centrarem en la curació dels fitxers de dades, el tercer
 
 ### Selecció de dades
 
-Malauradament, no ho podem guardar i preservar tot. És important treballar amb l'investigador per assegurar-se que les dades escollides per compartir en el repositori són les adequades. Haurem d'avaluar els següents criteris (Whyte, 2010):
+Malauradament, no ho podem guardar i preservar tot. És important treballar amb l'investigador per assegurar-se que les dades escollides per compartir en el repositori són les adequades. Haurem d'avaluar els següents criteris ([Whyte, 2010](https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data)):
 * **rellevància per a la missió i objectius del repositori**
 * **valor científic o històric de les dades**
 * **si les dades són úniques**. Si no ho són, perquè han estat obtingudes d'altres fonts, haurem d'avaluar si les altres fonts ofereixen garanties de preservació. Si aquestes garanties són raonables, podem simplement citar les fonts en comptes de preservar les dades de nou. Si la investigació va posar molta feina en reorganitzar les dades, incorporar-les amb dades de diverses fonts, canviar-les i tractar-les, pot ser convenient preservar-les. En general és aconsellable que no hi hagi diferents versions de les mateixes dades (a no ser que hi hagi un motiu, i en aquest cas les versions han d'estar ben documentades).
@@ -186,6 +186,7 @@ Day Thomson, S.. (2016). Preserving Transactional Data [DPC Technology Watch Rep
 
 Johnston, L.R., Carlson, J, Hudson-Vitale, C., Imker, H., Kozlowski, W., Olendorf, R., Steward, C. (2016) Definitions of data curation activities used by the Data Curation Network. Retrieved from the University of Minnesota Digital Conservancy, [https://hdl.handle.net/11299/188638](https://hdl.handle.net/11299/188638). 
 
+Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data
 
 > ## Incís
 > 
