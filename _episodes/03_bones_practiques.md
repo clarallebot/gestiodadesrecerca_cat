@@ -22,7 +22,7 @@ key points:
 ---
 # La curació de dades de recerca
 
-> ## Incís
+> ## Definició de curació de dades
 > 
 > Quan parlem de curació de dades d'investigació parlem d'"una sèrie d'accions i feines realitzades per part dels curadors en un repositori de dades perquè l'accés a les dades perduri amb el temps i sigui significatiu" (la meva traducció, de [Johnston et al 2016](https://hdl.handle.net/11299/188638)).
 > 
