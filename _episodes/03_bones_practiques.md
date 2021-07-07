@@ -30,10 +30,10 @@ key points:
 
 Quan curem dades per a un repositori millorem, revisem i de vegades creem contingut en 3 elements:
 * **El registre**: aquestes són les metadades estructurades que formen part del repositori. Aquest tipus d'informació es captura en general per a tots els tipus de contingut en un repositori, incloses dades. Alguns exemples de les metadades incloses en el registre són autor, data, identificador, cita, abstract, llicència, llengua, drets, paraules clau o subject, títol, etc
-* **La documentació**: aquests són fitxers que expliquen amb detall la informació continguda en les dades. Aquests també són metadades, però per distingir-los de les metadades de l'registre em referiré a aquests arxius amb la paraula documentació. La majoria de la informació continguda en el registre també està inclosa en la documentació, però la documentació inclou més informació. Per exemple, la documentació pot incloure una llista de les variables presents en les dades, i la seva definició. En alguns repositoris, especialment repositoris dedicats a disciplina específica, que requereixen dipositar documentació amb formats estàndards molt concrets, la documentació i el registre són el mateix.
+* **La documentació**: aquests són fitxers que expliquen amb detall la informació continguda en les dades. Aquests també són metadades, però per distingir-los de les metadades del registre em referiré a aquests arxius amb la paraula documentació. La majoria de la informació continguda en el registre també està inclosa en la documentació, però la documentació inclou més informació. Per exemple, la documentació pot incloure una llista de les variables presents en les dades, i la seva definició. En alguns repositoris, especialment repositoris dedicats a disciplina específica, que requereixen dipositar documentació amb formats estàndards molt concrets, la documentació i el registre són el mateix.
 * **Les dades**: els fitxers amb dades.
 
-Podeu trobar una llista de les diferents activitats que es realitzen quan es curen dades a la pàgina web de el Data Curation Network [https://datacurationnetwork.org/data-curation-activities/](https://datacurationnetwork.org/data-curation-activities/). El Data Curation Network és un projecte que té la missió de facilitar el suport als investigadors per part de repositoris de dades. Els esmentarem en diverses ocasions durant aquestes lliçons perquè han fet molta feina per definir el procés de curació de dades d'investigació en un repositori.
+Podeu trobar una llista de les diferents activitats que es realitzen quan es curen dades a la pàgina web del Data Curation Network [https://datacurationnetwork.org/data-curation-activities/](https://datacurationnetwork.org/data-curation-activities/). El Data Curation Network és un projecte que té la missió de facilitar el suport als investigadors per part de repositoris de dades. Els esmentarem en diverses ocasions durant aquestes lliçons perquè han fet molta feina per definir el procés de curació de dades d'investigació en un repositori.
 
 # Curar els fitxers de dades
 
@@ -49,7 +49,7 @@ Malauradament, no ho podem guardar i preservar tot. És important treballar amb 
 * **replicabilitat**. Si no és possible replicar l'estudi, o fer-ho significaria tenir costos alts, és convenient preservar les dades.
 * **reproductibilitat**. Les dades fan possible la reproductibilitat de l'estudi.
 * **costos**. els costos estimats per mantenir i preservar el recurs s'han avaluat, i són adequats tenint en compte els possibles beneficis de preservar. Hi ha finançament disponible.
-* **documentació**: hi ha documentació que permet que les dades siguin localitzats, es puguin accedir, i siguin reutilitzades.
+* **documentació**: hi ha documentació que permet que les dades siguin localitzades, es puguin accedir, i siguin reutilitzades.
 
 ### Assegurar-se que les dades es poden compartir en un repositori
 
