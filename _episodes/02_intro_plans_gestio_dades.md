@@ -276,8 +276,8 @@ A DMPonline podeu trobar exemples de plans de gestió de dades que han estat red
 
 Si voleu assegurar-vos de llegir un pla de gestió de dades pel programa Horizon 2020 que és força complet us recomano aquests dos:
 
-Pla elaborat per Tim Evans: [https://dmponline.dcc.ac.uk/plans/12379/export.pdf](https://dmponline.dcc.ac.uk/plans/12379/export.pdf)
-Pla elaborat per Sebastian Dahle [https://dmponline.dcc.ac.uk/plans/18705/export.pdf](https://dmponline.dcc.ac.uk/plans/18705/export.pdf)
+* Pla elaborat per Tim Evans: [https://dmponline.dcc.ac.uk/plans/12379/export.pdf](https://dmponline.dcc.ac.uk/plans/12379/export.pdf)
+* Pla elaborat per Sebastian Dahle [https://dmponline.dcc.ac.uk/plans/18705/export.pdf](https://dmponline.dcc.ac.uk/plans/18705/export.pdf)
 
 ### Exemples de plans de gestió de dades elaborats a universitats catalanes
 
