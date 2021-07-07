@@ -109,13 +109,6 @@ En aquesta part de la lliçó parlarem de la creació de les dades des del punt 
 
 EL primer concepte a tenir en compte és que els ordinadors i les persones entenen la informació de forma molt diferent. Els humans entenem informació desestructurada molt fàcilment, però som lents. Els ordinadors són ràpids, però molt literals. Per poder aprofitar les eines que existeixen per analitzar dades de forma robusta, ràpida i reproductible (per exemple, llenguatges de progamació com R o Python) hem d'assegurar-nos que les dades estan organitzades de la manera adequada per tal que, no només les persones les entenguin, sinó també les màquines. 
 
-Parlarem de
-* El format de les taules
-* Evitar errors comuns
-* Com tractar dades en fulls de càlcul
-* Control de qualitat i manipulació
-* Exportar dades des d'un programa de full de càlcul
-
 El segon concepte a tenir en compte és que els programes d'edició de fulls de càlcul tenen moltes funcionalitats. Podem entrar dades, organitzar-les, classificar-es, calcular-ne estadístiques, representar dades, etc. No obstant això, aquests programes són molt bons per a algunes d'aquestes tasques, però no tan bones per a altres. En particular, hem d'anar amb molt de compte quan usem fulls de càlcul per generar estadístiques i figures perquè aquests programes funcionen a força de clics i d'arrossegar el cursor, i això fa que sigui molt difícil replicar els passos que s'han seguit per generar, per exemple, una determinada figura. I també és molt fàcil aplicar per error una fórmula a les cel·les adjacents. Hi ha altres programes, com R o SAS, que són més adequats per calcular estadístiques i fer figures: més robustos, menys propensos a errors, i més reproduïbles.
 
 Per què són bons els programes de gestió de fulls de càlcul? Per ordenar i "netejar" dades que després seran usades en altres programes. Quan preparem dades per compartir, precisament volem que les dades estiguin en aquest format net i ordenat.
