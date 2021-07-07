@@ -1,19 +1,24 @@
 ---
-title: Curació de dades de recerca en repositoris
+title: Curació de dades de recerca en repositoris. Organització de dades
 teaching: 30
 exercises: 0
 questions:
-- "Quins són els elements necessaris d'un pla de gestió de dades?"
-- "Quina informació hem d'incloure en cada element?"
-- "Quins són els errors més comuns en escriure un pla de gestió de dades?"
+- "Què és la curació de dades?"
+- "Quines activitats formen part de la curació de dades de recerca?"
+- "Quines qualitats ha de tenir un conjunt de dades per ser publicat? Què vol dir que un conjunt de dades és ´tidy´ o ordenat?"
 objectives:
-- "Saber definir ´Dades de recerca´."
-- "Saber definir ´Gestió de dades de recerca´."
-- "Entendre el concepte de reproductibilitat."
-- "Tenir una visió general de dades obertes en la gestió de dades de recerca"
+- "Saber definir ´Curació de dades de recerca´."
+- "Saber enumerar activitats necessaries per la curació de dades de recerca."
+- "Saber reconèixer els elements que s'han d'avaluar en curar un conjunt de dades."
+- "sabran descriure l'estructura d'un conjunt de dades en un full de càlcul per considerar-lo ´tidy´"
+- "sabran identificar errors en l'estructura de dades en un full de càlcul, i sabran identificar els problemes que poden causar. Inclou el format de les dades."
+- "coneixeran l'existència de Software i Data Carpentry com a recurs per a la instrucció en gestió de dades de recerca."
 key points:
-- "Les dades de recerca poden tenir moltes formes diferents."
-- "Un dels objectius de la gestió de dades de recerca és que la ciència sigui més reproductible."
+- "En curar dades de recerca avaluarem el registre, la documentació i el conjunt de dades"
+- "La curació dels fitxers de dades consistirà en seleccionar les dades, assegurar-se que es poden compartir, guardar les dades en el format adequat, i assegurar-se que les dades i els fitxers estan organitzats."
+- "En organitzar dades en un full de càlcul hem de guardar les dades amb estructura de variables en les columnes, mostres en les files."
+-  "En organitzar dades en un full de càlcul hem de guardar les dates fent servir un estàndard o separant Dia, Mes i Any en columnes diferents"
+-  "En organitzar dades en un full de càlcul hem de generar documentació per assegurar la reproductibilitat del projecte"
 ---
 # Curar dades en un repositori
 
