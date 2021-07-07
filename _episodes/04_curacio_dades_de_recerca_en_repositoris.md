@@ -1,24 +1,20 @@
 ---
-title: Curació de dades de recerca en repositoris. Organització de dades
+title: Curació de dades de recerca en repositoris. Registre i documentació.
 teaching: 30
 exercises: 0
 questions:
-- "Què és la curació de dades?"
-- "Quines activitats formen part de la curació de dades de recerca?"
-- "Quines qualitats ha de tenir un conjunt de dades per ser publicat? Què vol dir que un conjunt de dades és ´tidy´ o ordenat?"
+- "Quins són els elements claus de metadades que ha de tenir un conjunt de dades en un repositori?"
+- "Com ha de ser la documentació d'un conjunt de dades?"
 objectives:
-- "Saber definir ´Curació de dades de recerca´."
 - "Saber enumerar activitats necessaries per la curació de dades de recerca."
-- "Saber reconèixer els elements que s'han d'avaluar en curar un conjunt de dades."
-- "sabran descriure l'estructura d'un conjunt de dades en un full de càlcul per considerar-lo ´tidy´"
-- "sabran identificar errors en l'estructura de dades en un full de càlcul, i sabran identificar els problemes que poden causar. Inclou el format de les dades."
-- "coneixeran l'existència de Software i Data Carpentry com a recurs per a la instrucció en gestió de dades de recerca."
+- "Identificar els requeriments essencials que ha de complir un conjunt de dades per a ser aprovat"
+- "Identificar els elments que, encara que no essencials, milloren la qualitat d'un conjunt de dades."
 key points:
 - "En curar dades de recerca avaluarem el registre, la documentació i el conjunt de dades"
-- "La curació dels fitxers de dades consistirà en seleccionar les dades, assegurar-se que es poden compartir, guardar les dades en el format adequat, i assegurar-se que les dades i els fitxers estan organitzats."
-- "En organitzar dades en un full de càlcul hem de guardar les dades amb estructura de variables en les columnes, mostres en les files."
--  "En organitzar dades en un full de càlcul hem de guardar les dates fent servir un estàndard o separant Dia, Mes i Any en columnes diferents"
--  "En organitzar dades en un full de càlcul hem de generar documentació per assegurar la reproductibilitat del projecte"
+- "La curació del registre consistirà en assegurar-se que hi ha informació adequada en els camps de llicències, camps descriptius, DOI o identificador, cites recomanades"
+- "És imprescindible que qualsevol conjunt de dades publicat en un repositori tingui un fitxer de documentació explicant com usar i interpretar les dades"
+-  "En avaluar un fitxer de documentació mirarem que sigui consistent amb el registre, que estigui documentat en un format adient, que hi hagi informació de contacte, que els enllaços funcionin i siguin robustos, que hi hagi una llista dels fitxers del conjunt de dades i un diccionari de dades, i que s'expliquin els mètodes."
+-  "El Data Curation Network és un bon recurs per curar dades quan no s'és expert en la matèria"
 ---
 # Curar dades en un repositori
 
