@@ -146,19 +146,21 @@ L'organització que normalment és més efectiva per tenir dades ordenades, o "t
 
 Vegem un exemple. En la següent figura veiem dues taules. Les dues taules tenen la mateixa informació, però està estructurada de forma diferent. Quina organització és millor?
 
-
+![La imatge mostra dues taules. La Taula 1 té tres columnes per tres anys consecutius: 2010, 2011, 2012. Té dues fileres, per dos llocs de mostreig, Washington i Oregon. A les cel·les es mostren valors entre 5 i 22. La taula 2 té tres columnes amb els títols "Site" (lloc de mostreig), "Year" (any) i "Abundance" (abundància). Té sis fileres, cada una de les quals amb diferents valors per cada una de les variables. Washington o Oregon per Site, un número entre 2010 i 2012 per Year i un número entre 5 i 22 per Abundance.](../fig/tema3_exemple_estructura-_taules.png)
  
 La resposta correcta és que depèn. Si això fossin dades que estem publicant en un article o una presentació, volem que les persones les entenguin el més ràpidament i clarament possible. La Taula 1 serà millor, perquè és més clar que les dades es van prendre en dos llocs, i durant 3 anys diferents. És més fàcil visualitzar, per exemple, que els valors a Washington són més alts que els valors a Oregon. Però la taula 2 és millor per organitzar les dades en un full de càlcul. A la taula 2 veiem clarament que estem prenent dades de tres variables: lloc, any i abundància. Si en un moment determinat volem afegir variables (per exemple prendre notes de la presència de sequera durant aquest any) ens serà molt fàcil fer-ho en la taula 2, i serà complicat a la taula 1. També serà més fàcil fer servir la taula 2 si la recol·lecció de dades es fa a intervals irregulars (per exemple, dues dades en alguns anys, una dada en altres). La taula 2 serà més fàcil d'usar per un programa com R, python, o SAS.
 
 Quan les dades es comparteixen en un repositori haurien de tenir l'estructura de la taula 2, no la de la taula 1.
 
-Un cop ja tenim l'estructura de taula, què és millor? Tenir moltes taules amb poca informació o tenir una gran taula amb molta informació? En general fer servir moltes taules o moltes pestanyes no és recomanable, perquè és més fàcil cometre errors (no col·locar la mateixa informació de la mateixa manera en cada taula) i perquè és molt més difícil llegir les dades amb aquesta estructura amb altres programes. Una gran taula és millor que moltes taules petites. I la majoria de vegades volem combinar la informació de les diferents taules. 
+Un cop ja tenim l'estructura de taula, què és millor? Tenir moltes taules amb poca informació o tenir una gran taula amb molta informació? En general fer servir moltes taules o moltes pestanyes no és recomanable, perquè és més fàcil cometre errors (no col·locar la mateixa informació de la mateixa manera en cada taula) i perquè és molt més difícil llegir les dades amb aquesta estructura amb altres programes. Una gran taula és millor que moltes taules petites. I la majoria de vegades volem combinar la informació de les diferents taules quan analitzem les dades. 
 
 ### Estratègies per generar dades reproductibles
 
 Per garantir la reproductibilitat del projecte, i assegurar-nos que no perdem res per accident, és molt important **guardar sempre una còpia de les dades brutes sense modificar**.
  
-Ja hem explicat que un problema dels fulls de càlcul és que és difícil reproduir els passos que s'han seguit per obtenir un determinat resultat. Per això és important **prendre notes dels passos que seguim**. Per exemple, podríem obrir una pestanya nova, anomenar-la "readme" o "notes". O podríem crear un fitxer amb Notepad o qualsevol altre programa d'edició de textos, i guardar-lo al costat del nostre full de càlcul. A la figura 1 en teniu un exemple.
+Ja hem explicat que un problema dels fulls de càlcul és que és difícil reproduir els passos que s'han seguit per obtenir un determinat resultat. Per això és important **prendre notes dels passos que seguim**. Per exemple, podríem obrir una pestanya nova, anomenar-la "readme" o "notes". O podríem crear un fitxer amb Notepad o qualsevol altre programa d'edició de textos, i guardar-lo al costat del nostre full de càlcul. A la figura següent en teniu un exemple.
+
+![La figura mostra un processador de text pla amb el següent text: Notes del processament de les dades a dades_projecte_DM.xlsx  # Passos seguits el 2021-06-14   * Fer una copia del full 2013-bruts, anomenada 2013-nets; còpia del full 2014-bruts a 2014-nets.  * A 2013-nets: crear una columna "Especies". Copiar la informació dels títols dels gràfics en aquesta columna * A 2013-nets: ajuntar les dades de totes les taules separades en una gran taula amb columnes "Data", "Parcella", "Especies", "Sexe", "Pes". * A 2013-nets: separar la columna de data en tres columnes "dia" "mes" "any" fent servir les fórmules =YEAR() =MONTH() =DAY()](../fig/tema3_readme_per_figura.png)
 
 Aquest fitxer de notes segurament no serà el que es acabi sent compartit quan les dades es facin públics en un repositori, però parts d'aquest podrien acabar en la documentació final. I un fitxer d'aquest tipus ens serà molt útil si mesos després no recordem com vam tractar les dades, o si hem de repetir els mateixos passos amb una nova versió de les dades. 
 
@@ -175,9 +177,12 @@ Finalment, per garantir que el fitxer de dades perduri amb el temps hauríem de 
 * Quan guardem les dades en altres formats, com csv, es guarden les dades tal com les veiem. Si la nostra visualització inclou només dia i mes, i no l'any, la informació d'any la perdrem.
 * La manera com estan guardades les dates en els programes de full de càlcul és utilitzant un dia de referència i comptant quants dies han passat des d'aquell dia. Durant molts anys els dies de referència d'Excel a Windows i a Mac era diferent, i els fulls de càlcul que s'havien creat amb un sistema operatiu tenien dates incorrectes (4 anys de diferència) si s'obrien amb un altre sistema operatiu. Aquest problema pot persistir ara si obrim fitxers Excel antics. 
 
-La forma més clara de guardar les dates és tenir una columna per a cada element: any, mes, dia, i hora, minut, segon si són necessaris. D'aquesta manera no hi haurà confusions amb diferents estàndards ( fem servir dd / mm / yyyy o mm / dd / yyyy?), o errors deguts a diferents programes i sistemes operatius.
+La forma més clara de guardar les dates és tenir una columna per a cada element: any, mes, dia, i hora, minut, segon si són necessaris. D'aquesta manera no hi haurà confusions amb diferents formes habituals de guardar les dates ( fem servir dd/mm/yyyy o mm/dd/yyyy?), o errors deguts a diferents programes i sistemes operatius.
 
 En general, quan es tenen dades que inclouen dates (una situació molt comú) val la pena recordar que hi ha un estàndard per dates, l'ISO 8601 segons el qual el format adequat és yyyy-mm-dd. Les pàgines de la Wikipedia en [castellà](https://es.wikipedia.org/wiki/ISO_8601) o [anglès](https://en.wikipedia.org/wiki/ISO_8601) tenen molta informació sobre com utilitzar l'estàndard.
+
+[![Acudit que explica que hi ha un estàndard ISO, i que segons aquest estàndard les dates s'han de formatejar yyyy-mm-dd, i qualsevol altra opció no és correcta](../fig/tema3_xkcd_iso_8601.png)](https://imgs.xkcd.com/comics/iso_8601.png)
+ 
 
 # Referències
 
