@@ -30,8 +30,6 @@ key points:
 
 Hi ha estudis que han analitzat la qualitat de les dades en repositoris, i han vist que quan no hi ha curació o la curació és opcional, la qualitat de les dades és menor que si hi ha almenys un curador. Per exemple, en l'estudi de [Koshoffer (2018)](http://dx.doi.org/10.2218/ijdc.v13i1.632) el nombre de conjunts de dades sense documentació era de més del 80% en dipòsits que no tenen curació o amb curació opcional, i menys del 20% en repositoris amb algun tipus de curació.
 
-# Elements de la curació de dades
-
 Quan curem dades per a un repositori millorem, revisem i de vegades creem contingut en 3 elements:
 * **El registre**: aquestes són les metadades estructurades que formen part del repositori. Aquest tipus d'informació es captura en general per a tots els tipus de contingut en un repositori, incloses dades. Alguns exemples de les metadades incloses en el registre són autor, data, identificador, cita, abstract, llicència, llengua, drets, paraules clau o subject, títol, etc
 * **La documentació**: aquests són fitxers que expliquen amb detall la informació continguda en les dades. Aquests també són metadades, però per distingir-los de les metadades de l'registre em referiré a aquests arxius amb la paraula documentació. La majoria de la informació continguda en el registre també està inclosa en la documentació, però la documentació inclou més informació. Per exemple, la documentació pot incloure una llista de les variables presents en les dades, i la seva definició. En alguns repositoris, especialment repositoris dedicats a disciplina específica, que requereixen dipositar documentació amb formats estàndards molt concrets, la documentació i el registre són el mateix.
