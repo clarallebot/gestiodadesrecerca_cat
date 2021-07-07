@@ -28,7 +28,7 @@ key points:
 > 
 {: .callout}
 
-Hi ha estudis que han analitzat la qualitat de les dades en repositoris, i han vist que quan no hi ha curació o la curació és opcional, la qualitat de les dades és menor que si hi ha almenys un curador. Per exemple, en l'estudi de [Koshoffer (2018)](http://dx.doi.org/10.2218/ijdc.v13i1.632) el nombre de conjunts de dades sense documentació era de més de l'80% en dipòsits que no tenen curació o amb curació opcional, i menys de l'20% en repositoris amb algun tipus de curació.
+Hi ha estudis que han analitzat la qualitat de les dades en repositoris, i han vist que quan no hi ha curació o la curació és opcional, la qualitat de les dades és menor que si hi ha almenys un curador. Per exemple, en l'estudi de [Koshoffer (2018)](http://dx.doi.org/10.2218/ijdc.v13i1.632) el nombre de conjunts de dades sense documentació era de més del 80% en dipòsits que no tenen curació o amb curació opcional, i menys del 20% en repositoris amb algun tipus de curació.
 
 # Elements de la curació de dades
 
