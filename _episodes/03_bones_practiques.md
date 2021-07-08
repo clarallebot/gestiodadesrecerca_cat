@@ -131,7 +131,7 @@ Parlem de bones pràctiques i d'errors habituals en fulls de càlcul.
 L'organització que normalment és més efectiva per tenir dades ordenades, o "tidy data", és
 * Totes les variables han d'estar en columnes. Les variables són el que estem mesurant. Com a "temperatura" o "pes"
 * Cada observació ha d'estar en una fila.
-* Només hi ha d'haver una informació en cada parcel·la. No s'han de posar dos tipus d'informació en una cela (e.g. el valor i la unitat)
+* Només hi ha d'haver una informació en cada cel·la. No s'han de posar dos tipus d'informació en una cel·la (per exemple el valor i la unitat).
 
 Vegem un exemple. En la següent figura veiem dues taules. Les dues taules tenen la mateixa informació, però està estructurada de forma diferent. Quina organització és millor?
 
@@ -180,29 +180,3 @@ Day Thomson, S.. (2016). Preserving Transactional Data [DPC Technology Watch Rep
 Johnston, L.R., Carlson, J, Hudson-Vitale, C., Imker, H., Kozlowski, W., Olendorf, R., Steward, C. (2016) Definitions of data curation activities used by the Data Curation Network. Retrieved from the University of Minnesota Digital Conservancy, [https://hdl.handle.net/11299/188638](https://hdl.handle.net/11299/188638). 
 
 Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data
-
-> ## Incís
-> 
-> Aquí explicarem un incís.
-> 
-{: .callout}
-
-> ## Exercici
->
-> Us proposo aquest exercici
->
-> > ## Solució
-> >
-> > Aquesta és la solució de l'exercici
-> >
-> {: .solution}
-{: .challenge}
-
-
-
-> ## Lectures recomanades
->
-> *   Article 1
->
-> *   Article 2
-{: .challenge}
