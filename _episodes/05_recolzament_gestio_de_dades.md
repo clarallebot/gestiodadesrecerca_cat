@@ -13,6 +13,8 @@ keypoints:
 - "És útil diferenciar entre serveis transversals, serveis a grups, i serveis a persones individuals"
 ---
 
+# Recolzament a la gestió de dades de recerca en institucions i biblioteques.
+
 En aquesta lliçó farem una mirada breu als serveis que les biblioteques de l'entorn del món han organitzat per donar suport als investigadors i institucions en les tasques de gestió de dades.
  
 Encara que ens centrarem en serveis desenvolupats per biblioteques és important dir que les biblioteques no són les úniques que presten aquest tipus de serveis, i moltes vegades ho fan en col·laboració amb, per exemple, els departaments d'informàtica o els centres de suport a la investigació de la institució.
@@ -36,7 +38,7 @@ Hi ha diversos articles que descriuen els tipus de serveis oferts per universita
 
 
 
-## Exemples
+### Exemples
 
 Vegem-ne alguns exemples
 * **Gestionar un repositori de dades**. Aquesta és una activitat que necessita una inversió de temps i de diners molt altes. Un cop està en marxa encara necessita manteniment i recursos, però cada vegada que s'usa (e.g. cada vegada que algú diposita un conjunt de dades) el procés és relativament ràpid. Un repositori pot afectar, potencialment, tots els investigadors i estudiants d'una institució.
@@ -56,14 +58,52 @@ Tot això són exemples, és clar, i podem trobar molts casos de serveis que no 
 {: .challenge}
 
 
-## Un exemple de serveis de suport a la gestió de dades
+# Un exemple de serveis de suport a la gestió de dades
 
 Crec que pot ser útil veure un exemple específic de servei de dades de recerca en una institució concreta. El cas que conec millor és el de la biblioteca on treballo, així que us explicaré l'experiència de l'Oregon State University. Els recursos, prioritats i funcionament de cada biblioteca són diferents, així que només és un exemple, no necessàriament un model a seguir.
 En ser només un exemple, el contingut està només en format de vídeo.
 
 [![Video d'exemple de serveis de suport a la gestió de dades de recerca de la Oregon State University](../fig/tema5_contingut1_exemple_serveis_suport_imatge_video.png)](https://drive.google.com/file/d/1vMf_N2C4plJ8wGdPsE_9f9Po3_4lWP3p/view?usp=sharing)
 
-## Referències usades en el text
+# Mantenir-se al dia i aprendre sobre gestió de dades de recerca
+
+Parlem una mica de com ens mantenim al dia sobre gestió de dades. Aquí sota us deixo una llista de recursos que val la pena tenir en compte per mantenir-se al dia i aprendre sobre gestió de dades de recerca .
+
+### Revistes i publicacions
+* Journal of eScience Librarianship https://escholarship.umassmed.edu/jeslib/
+* International Journal of digital curation http://www.ijdc.net/index
+* Journal of the American Society for Information Science and Technology https://onlinelibrary.wiley.com/loi/15322890
+
+### Blogs i guies online
+* El blok de bid, en el qual es publiquen ressenyes d'articles i informes publicats sobre gestió de dades (i altres temes), en català i castellà http://www.ub.edu/blokdebid
+* Digital Curation Center (DCC): el Regne Unit va ser un dels grans impulsors de la gestió de dades, i en aquesta pàgina web hi trobareu molts materials que són útils per començar serveis de gestió de dades. https://www.dcc.ac.uk/ 
+
+### Associacions professionals
+* La Research Data Alliance (RDA), internacional, molt recomanable, ser membre és gratuït. https://rd-alliance.org/
+* Research Data Access and Preservation No té una geografia definida, però els seus components són sobretot d'Amèrica de Nord. Us podeu fer membres gratuits aquest any (acaben d'enviar un missatge avui 2021-06-21 dient que s'haurà de pagar per ser membres a partir d'ara) https://rdapassociation.org/
+* Earth Science Information Partners (ESIP), sobre ciències de la terra i el medi ambient. https://www.esipfed.org/
+* La vostra associació de professionals de la informació local, com ara el COBDC.
+
+### Llistes de distribució on us podeu apuntar
+* Research Data Management. Creada pel DCC, d'àmbit internacional, amb molts participants europeus. https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=RESEARCH-DATAMAN
+* Datacure és un grup de bibliotecaris i bibliotecàries amb responsabilitats de gestió de dades, basats la majoria a Nord Amèrica, que tenen aquesta llista de distribució per a resoldre dubtes http://bit.ly/22sx7M8
+* Les associacions professionals normalment també tenen llistes de distribució on es fan preguntes. Per exemple la Research Data Access and Preservation té una llista de distribució.
+
+### Conferències i congressos
+Força relacionat amb les associacions professionals, que normalment organitzen congressos.
+* La Research Data Alliance té un congrés cada any en algun lloc del món. El plenari de la RDA serà al novembre del 2021, i serà virtual. https://www.rd-alliance.org/plenary-meetings/next-plenary. 
+International Digital Curation Conference https://www.dcc.ac.uk/events/international-digital-curation-conference-idcc
+* Research Data Access and Preservation Summit (a Estats Units) https://rdapassociation.org/
+Digital Library Federation Forum (no és 100% de gestió de dades, però té un component) https://forum2020.diglib.org/
+* Midwest Data Librarian Symposium (d'una regió d'Estats Units, en què normalment participen gent de tot Amèrica de Nord) https://mwdatalibrariansymposium.wordpress.com/
+CSVconf, per gent a qui li encanta parlar de dades! Són a Estats Units, però tenen totes les presentacions penjades a Youtube. https://csvconf.com/ 
+* Hi ha moltes conferències de disciplines concretes que inclouen unes quantes sessions sobre gestió de dades per a les disciplines. Si treballeu en una disciplina concreta val la pena mirar si hi ha contingut de gestió de dades.
+
+### Altres recursos
+* El CSUC, el Consorci de Serveis Universitaris de Catalunya té una àrea de ciència oberta en què inclouen gestió de dades de recerca. Ofereixen cursos i conferències sobre gestió de dades https://www.csuc.cat/ca/serveis/ciencia-oberta
+* Una llista d'articles i altres materials de referència sobre curació de dades. Té més de 800 articles. Bailey, Charles W., Jr. Research Data Curation and Management Bibliography. Houston: Digital Scholarship, 2021. http://www.digital-scholarship.org/rdcmb/rdcmb.htm
+
+# Referències 
 Cox, A. M., Kennan, M. A., Lyon, L., & Pinfield, S. (2017). Developments in research data management in academic libraries: Towards an understanding of research data service maturity. Journal of the Association for Information Science and Technology, 68(9), 2182–2200. [https://doi.org/10.1002/asi.23781](https://doi.org/10.1002/asi.23781)
 
 Llebot, C., Rempel, H. G. (2020) Instruments to explore the adoption of good data management practices through a variation of the UTAUT model. (Version 1) [Dataset]. Oregon State University. [https://doi.org/10.7267/5x21tn73z](https://doi.org/10.7267/5x21tn73z)
