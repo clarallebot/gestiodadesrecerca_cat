@@ -51,7 +51,7 @@ Generalment recomanem publicar dades en obert sota una llicència CC0, perquè �
 
 > ## Llicència CC0
 > 
-> La llicència CC0 implica que (de la pàgina web de Creative Commons [aquí](https://creativecommons.org/publicdomain/zero/1.0/deed.ca)):
+> La llicència CC0 implica que (font: [la pàgina web de Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.ca)):
 * La persona que ha associat una obra amb aquest document l'ha entregada al domini públic mitjançant la renúncia de tots els drets sobre l'obra pel que fa a la propietat intel·lectual, incloent-hi els drets afins, fins on és possible amb la llei vigent aplicable.
 * Podeu copiar, modificar, distribuir l'obra i fer-ne comunicació pública, fins i tot amb finalitat comercial, sense demanar cap mena de permís.
 > 
@@ -64,7 +64,7 @@ La resta de llicències de Creative Commons totes tenen el requisit del reconeix
 
 > ## Llicència CC-BY
 > 
-> La llicència CC-BY implica que (de la pàgina web de Creative Commons [aquí](https://creativecommons.org/licenses/by/4.0/deed.ca).)
+> La llicència CC-BY implica que (font: [pàgina web de Creative Commons](https://creativecommons.org/licenses/by/4.0/deed.ca).)
 * Sou lliure de Compartir — copiar i redistribuir el material en qualsevol mitjà i format.
 * Sou lliure d'Adaptar — remesclar, transformar i crear a partir del material per a qualsevol finalitat, fins i tot comercial. 
 * Amb els termes de Reconeixement — Heu de reconèixer l'autoria de manera apropiada, proporcionar un enllaç a la llicència i indicar si heu fet algun canvi. Podeu fer-ho de qualsevol manera raonable, però no d'una manera que suggereixi que el llicenciador us dóna suport o patrocina l'ús que en feu.
@@ -82,9 +82,9 @@ Les llicències Creative Commons poden tenir altres termes a part del Reconeixem
 
 > ## Termes de les llicències Creative Commons
 > 
-> CompartirIgual — Si remescleu, transformeu o creeu a partir del material, heu de difondre les vostres creacions amb la mateixa llicència que l'obra original. (font, [aquí](https://creativecommons.org/licenses/by-sa/4.0/deed.ca))
-SenseObraDerivada — Si remescleu, transformeu o creeu a partir del material, no podeu difondre el material modificat. (font, [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.ca))
-NoComercial — No podeu utilitzar el material per a finalitats comercials. (font, [aquí](https://creativecommons.org/licenses/by-nc/4.0/deed.ca))
+> * CompartirIgual — Si remescleu, transformeu o creeu a partir del material, heu de difondre les vostres creacions amb la mateixa llicència que l'obra original. (font, [aquí](https://creativecommons.org/licenses/by-sa/4.0/deed.ca))
+> * SenseObraDerivada — Si remescleu, transformeu o creeu a partir del material, no podeu difondre el material modificat. (font, [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.ca))
+> * NoComercial — No podeu utilitzar el material per a finalitats comercials. (font, [aquí](https://creativecommons.org/licenses/by-nc/4.0/deed.ca))
 > 
 {: .callout}
 
@@ -96,16 +96,14 @@ En general és una bona idea mantenir aquest termes al mínim, a no ser que hi h
 
 > ## Lectura recomanada
 >
-> Si voleu saber més detalls sobre propietat intel·lectual i dades recomano moltíssim aquest article (en anglès):
+> Si voleu saber més detalls sobre propietat intel·lectual i dades aquest article (en anglès) té tots els detalls sobre la protecció legal per conjunts de dades, qui té els drets, i com s'apliquen en el context de compartir dades de recerca:
 Carroll, M. W. (2015). Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biology, 13(8). [https://doi.org/10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)
-> 
-> Hi trobareu tots els detalls sobre la protecció legal per conjunts de dades, qui té els drets, i com s'apliquen en el context de compartir dades de recerca.
 > 
 {: .challenge}
 
-Ja hem vist que les dades de recerca poden ser de molts tipus, i un d'aquests tipus, força comú, és codi. Quan parlo aquí de codi o software, o programari, em refereixo a scripts o programes que els investigadors o investigadores generen, i que s'usen per netejar les dades, o per analitzar-les, visualitzar-les, per calcular-ne estadístiques, per generar dades secundàries, etc. Per exemple, en recerca s'utilitzen molt els llenguatges de programació Matlab, R i Python, tot i que hi ha molts llenguatges de programació que es fan servir en diferents contextos i àmbits de recerca.
+Ja hem vist que les dades de recerca poden ser de molts tipus, i un d'aquests tipus, força comú, és codi. Quan parlem de codi o software, o programari en aquest context ens referim a scripts o programes que els investigadors o investigadores generen, i que s'usen per netejar les dades, o per analitzar-les, visualitzar-les, per calcular-ne estadístiques, per generar dades secundàries, etc. Per exemple, en recerca s'utilitzen molt els llenguatges de programació Matlab, R i Python, tot i que hi ha molts llenguatges de programació que es fan servir en diferents contextos i àmbits de recerca.
 
-Les llicències Creative Commons no es recomanen per publicar codi perquè no inclouen informació sobre la redistribució del programari, perquè no inclouen informació sobre possibles patents, i perquè les llicències Creative Commons no són compatibles amb les llicències de software que es fan servir actualment, així que són difícils d'integrar. Enlloc de llicències Creative Commons es recomana usar llicències de programari.
+Les llicències Creative Commons no es recomanen per publicar codi perquè no inclouen informació sobre la redistribució del programari, perquè no inclouen informació sobre possibles patents, i perquè les llicències Creative Commons no són compatibles amb les llicències de software que es fan servir actualment, així que són difícils d'integrar (podeu llegir el raonament [a les FAQ de la pàgina web del Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)). Enlloc de llicències Creative Commons es recomana usar llicències de programari.
 
 Podeu trobar llistes de llicències de programari obertes a
 * Open Source Initiative: https://opensource.org/licenses
@@ -113,7 +111,11 @@ Podeu trobar llistes de llicències de programari obertes a
 
 La llicència [MIT](https://opensource.org/licenses/mit-license.php) i la llicència [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) són obertes, i usades habitualment. 
 
-
+> ## Recurs
+> 
+> Aquest selector de llicències és molt útil per triar llicències de dades i de programari. [https://ufal.github.io/public-license-selector/](https://ufal.github.io/public-license-selector/). Els autors són Pawel Kamocki, Pavel Straňák i Michal Sedlák, de l'Institute of Formal and Applied Linguistics.
+> 
+{: .callout}
 
 ### Camps descriptius que descriguin el conjunt de dades
 
