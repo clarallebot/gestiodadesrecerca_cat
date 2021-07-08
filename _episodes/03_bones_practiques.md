@@ -86,7 +86,7 @@ A vegades és molt difícil canviar el format de les dades, i no és raonable de
 * L'organització de la informació en cada un dels fitxers ha de ser ordenada, o el que anomenem **"tidy data"**. Parlem de ´tidy data´i l'organització de dades en la següent secció.
 
 
-# Dades ordenades, ´tidy data´ i fulls de càlcul
+# Dades ordenades, "tidy data" i fulls de càlcul
 
 L'objectiu aquí és parlar de tidy data en general. Però parlar en general és abstracte, i ja hem parlat molt en general en les seccions anterior. Aquí farem servir els fulls de càlcul com a exemple d'un tipus de dades en particular, però els conceptes apresos es poden aplicar a altres tipus de dades. Els fulls de càlcul són un exemple útil per parlar de tidy data, perquè són una eina molt habitual, usada per molts investigadors. 
  
