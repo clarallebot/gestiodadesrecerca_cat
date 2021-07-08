@@ -33,8 +33,8 @@ Els dipòsits institucionals tendeixen a acceptar dades de disciplines molt dive
 * Limitacions de nombre de fitxers o volum de dades que es vulguin imposar.
 * Quin tipus de metadades es generaran i preservaran
 
-En les lliçons anteriors d'aquest mateix tema hem parlat de com curar i organitzar les dades. Aquí parlarem de com curar les metadades, i distingirem entre dos tipus de metadades.
-* **El registre**: les metadades que formen part del repositori, que poden ser descriptives, administratives o estructurals. Algunes d'aquestes metadades seran accessibles només per a aquells que mantenen el repositori, altres seran visibles per al públic. Per a aquesta explicació ens centrarem en les metadades que normalment gestionen els bibliotecaris que curen dades, i que són visibles per als usuaris (títol, autors, abstract, etc.).
+En lliçons anteriors hem parlat de com curar i organitzar les dades. Aquí parlarem de com curar les metadades, i distingirem entre dos tipus de metadades.
+* **El registre**: les metadades que formen part del repositori, que poden ser descriptives, administratives o estructurals. Algunes d'aquestes metadades seran accessibles només per a aquells que mantenen el repositori, altres seran visibles per al públic. Per a aquesta explicació ens centrarem en les metadades que normalment gestionen els bibliotecaris o tècnics que curen dades, i que són visibles per als usuaris (títol, autors, abstract, etc.).
 * **La documentació**: fitxers que expliquen detalladament el contingut de les dades, i en donen el context necessari per poder entendre-les.
 
 # El registre del repositori
@@ -42,6 +42,78 @@ En les lliçons anteriors d'aquest mateix tema hem parlat de com curar i organit
 La major part de les metadades del repositori es gestionen de la mateixa manera en un registre de dades que en un registre d'altres tipus de contingut. Quan tractem amb dades hem de posar especial atenció en els següents elements.
 
 ### Llicències
+
+Com ja hem vist, un dels elements essencials per publicar dades en accés obert (o no) correctament és assegurar-nos que les dades estiguin publicades amb una llicència. El punt R1.1. dels principis FAIR també ho deixa clar: hem de "publicar dades i metadades amb una llicència de reutilització clara i accessible."
+
+La manera com les llicències funcionen amb dades és molt semblant a com funcionen per a altres tipus de materials. Parlem de les llicències Creative Commons, que son unes de les llicències més habituals.
+
+Generalment recomanem publicar dades en obert sota una llicència CC0, perquè és la llicència més oberta, i que permetrà que les dades siguin reutilitzades sense traves.
+
+> ## Llicència CC0
+> 
+> La llicència CC0 implica que (de la pàgina web de Creative Commons [aquí](https://creativecommons.org/publicdomain/zero/1.0/deed.ca)):
+* La persona que ha associat una obra amb aquest document l'ha entregada al domini públic mitjançant la renúncia de tots els drets sobre l'obra pel que fa a la propietat intel·lectual, incloent-hi els drets afins, fins on és possible amb la llei vigent aplicable.
+* Podeu copiar, modificar, distribuir l'obra i fer-ne comunicació pública, fins i tot amb finalitat comercial, sense demanar cap mena de permís.
+> 
+{: .callout}
+
+
+És a dir, aquesta llicència bàsicament diu que si el creador té drets d'autor sobre les dades, hi renuncia. A molts investigadors els preocupa que si les dades estan sota una llicència CC0, ningú els citarà, perquè la llicència no inclou l'obligatorietat de reconèixer l'autoria de les dades. En general no és un problema, perquè la qüestió de citar fonts en el món acadèmic és una qüestió ètica, no legal. En el món acadèmic s'han de citar les fonts sigui quina sigui la llicència. No fer-ho és plagiarisme. Citar dades dóna credibilitat als estudis que les reutilitzin, i generalment tots els acadèmics citen de forma rutinària sense problema. Parlarem més de citar dades d'aquí un moment. Fora del món acadèmic sí que qualsevol persona podria fer servir les dades sense citar-les.
+
+La resta de llicències de Creative Commons totes tenen el requisit del reconeixement. La llicència més simple és la CC-BY, en què l'únic requisit és el reconeixement.
+
+> ## Llicència CC-BY
+> 
+> La llicència CC-BY implica que (de la pàgina web de Creative Commons [aquí](https://creativecommons.org/licenses/by/4.0/deed.ca).)
+* Sou lliure de Compartir — copiar i redistribuir el material en qualsevol mitjà i format.
+* Sou lliure d'Adaptar — remesclar, transformar i crear a partir del material per a qualsevol finalitat, fins i tot comercial. 
+* Amb els termes de Reconeixement — Heu de reconèixer l'autoria de manera apropiada, proporcionar un enllaç a la llicència i indicar si heu fet algun canvi. Podeu fer-ho de qualsevol manera raonable, però no d'una manera que suggereixi que el llicenciador us dóna suport o patrocina l'ús que en feu.
+> 
+{: .callout}
+
+Les llicències Creative Commons no són un bon mecanisme per obligar algú a fer alguna cosa amb les dades (per exemple, reconeixer autoria) si la llei en permet un ús més ampli (com ara usar les dades sense haver de donar informació sobre l'autoria). En molts casos, si les dades no estan protegides pels drets de propietat intel·lectual, la llei no obliga a reconèixer autoria. Malgrat això, és cert que en molts casos tenir una llicència que requereix reconeixement anima als usuaris a fer-ho, i els investigadors i investigadores que han creat les dades es queden més tranquils. Molts repositoris accepten la publicació de dades amb llicències CC-BY per aquest motiu, i és força comú trobar-se conjunts de dades publicats amb una llicència CC-BY.
+
+> ## Lectures recomanades
+>
+> Si voleu llegir més sobre la idoneitat de llicències CC-BY per dades, vegeu una discussió a la pàgina web de la Universitat de Califòrnia (en anglès) a [https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/](https://osc.universityofcalifornia.edu/2016/09/cc-by-and-data-not-always-a-good-fit/)
+{: .challenge}
+
+Les llicències Creative Commons poden tenir altres termes a part del Reconeixement.
+
+> ## Termes de les llicències Creative Commons
+> 
+> CompartirIgual — Si remescleu, transformeu o creeu a partir del material, heu de difondre les vostres creacions amb la mateixa llicència que l'obra original. (font, [aquí](https://creativecommons.org/licenses/by-sa/4.0/deed.ca))
+SenseObraDerivada — Si remescleu, transformeu o creeu a partir del material, no podeu difondre el material modificat. (font, [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.ca))
+NoComercial — No podeu utilitzar el material per a finalitats comercials. (font, [aquí](https://creativecommons.org/licenses/by-nc/4.0/deed.ca))
+> 
+{: .callout}
+
+Tot i que en principi pot semblar que aquests termes no fan cap mal, en realitat posen traves i compliquen la reutilització de les dades. Per exemple:
+* En el cas del terme NoComercial, que és atractiu per molts investigadors, cal tenir en compte que la definició de "Comercial" no és gaire concreta. Hi ha finalitats que es poden considerar comercials sota aquesta llicència que són comuns al món acadèmic, com ara la publicació d'un llibre, o que moltes persones veuen intuitivament com a "bones" i que no voldrien prohibir, com ara l'ús de les dades per part d'organitzacions humanitàries o ONGs.
+* En casos en què un investigador o investigadora està compilant dades de moltes fonts, pot ser realment difícil fer un seguiment de les restriccions d'unes dades respecte les altres. I en el cas de * CompartirIgual obligaria a compartir totes les dades resultants sota una llicència restrictiva, independentment de les llicències de les altres.
+
+En general és una bona idea mantenir aquest termes al mínim, a no ser que hi hagi un bon motiu.
+
+> ## Lectura recomanada
+>
+> Si voleu saber més detalls sobre propietat intel·lectual i dades recomano moltíssim aquest article (en anglès):
+Carroll, M. W. (2015). Sharing Research Data and Intellectual Property Law: A Primer. PLoS Biology, 13(8). [https://doi.org/10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)
+> 
+> Hi trobareu tots els detalls sobre la protecció legal per conjunts de dades, qui té els drets, i com s'apliquen en el context de compartir dades de recerca.
+> 
+{: .challenge}
+
+Ja hem vist que les dades de recerca poden ser de molts tipus, i un d'aquests tipus, força comú, és codi. Quan parlo aquí de codi o software, o programari, em refereixo a scripts o programes que els investigadors o investigadores generen, i que s'usen per netejar les dades, o per analitzar-les, visualitzar-les, per calcular-ne estadístiques, per generar dades secundàries, etc. Per exemple, en recerca s'utilitzen molt els llenguatges de programació Matlab, R i Python, tot i que hi ha molts llenguatges de programació que es fan servir en diferents contextos i àmbits de recerca.
+
+Les llicències Creative Commons no es recomanen per publicar codi perquè no inclouen informació sobre la redistribució del programari, perquè no inclouen informació sobre possibles patents, i perquè les llicències Creative Commons no són compatibles amb les llicències de software que es fan servir actualment, així que són difícils d'integrar. Enlloc de llicències Creative Commons es recomana usar llicències de programari.
+
+Podeu trobar llistes de llicències de programari obertes a
+* Open Source Initiative: https://opensource.org/licenses
+* Free Software Foundation: https://www.gnu.org/licenses/license-list#SoftwareLicenses
+
+La llicència [MIT](https://opensource.org/licenses/mit-license.php) i la llicència [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) són obertes, i usades habitualment. 
+
+
 
 ### Camps descriptius que descriguin el conjunt de dades
 
