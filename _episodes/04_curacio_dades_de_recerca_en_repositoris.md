@@ -106,16 +106,71 @@ Ja hem vist que les dades de recerca poden ser de molts tipus, i un d'aquests ti
 Les llicències Creative Commons no es recomanen per publicar codi perquè no inclouen informació sobre la redistribució del programari, perquè no inclouen informació sobre possibles patents, i perquè les llicències Creative Commons no són compatibles amb les llicències de software que es fan servir actualment, així que són difícils d'integrar (podeu llegir el raonament [a les FAQ de la pàgina web del Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)). Enlloc de llicències Creative Commons es recomana usar llicències de programari.
 
 Podeu trobar llistes de llicències de programari obertes a
-* Open Source Initiative: https://opensource.org/licenses
-* Free Software Foundation: https://www.gnu.org/licenses/license-list#SoftwareLicenses
+* Open Source Initiative: [https://opensource.org/licenses](https://opensource.org/licenses)
+* Free Software Foundation: [https://www.gnu.org/licenses/license-list#SoftwareLicenses](https://www.gnu.org/licenses/license-list#SoftwareLicenses)
 
-La llicència [MIT](https://opensource.org/licenses/mit-license.php) i la llicència [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) són obertes, i usades habitualment. 
+La llicència [MIT](https://opensource.org/licenses/mit-license.php) i la llicència [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) són obertes, i molt usades. 
 
 > ## Recurs
 > 
 > Aquest selector de llicències és molt útil per triar llicències de dades i de programari. [https://ufal.github.io/public-license-selector/](https://ufal.github.io/public-license-selector/). Els autors són Pawel Kamocki, Pavel Straňák i Michal Sedlák, de l'Institute of Formal and Applied Linguistics.
 > 
 {: .callout}
+
+> ## Exercici
+>
+> Quina llicència triaria una investigadora que volgués publicar un conjunt de dades protegit per drets d'autor. La investigadora és qui té els drets d'autor, i vol publicar les dades tan obertament com sigui possible, permetent als altres fer treballs derivats, fins i tot per fins comercials.
+> 
+> Recordeu que podeu fer servir el [selector de llicències](https://ufal.github.io/public-license-selector/). 
+> 
+> > ## Solució
+> >
+> > L'opció per publicar les dades tan obertament com sigui possible seria aplicar una llicència CC0, per posar les dades en domini públic. Tothom podrà usar les dades, crear-ne derivades, i reutilitzar les dades sense restriccions. 
+> >
+> {: .solution}
+{: .challenge}
+
+
+> ## Exercici
+>
+> Quina llicència triaria un investigador que volgués publicar un conjunt de dades protegit per drets d'autor del qual no n'és propietari? L'investigador va obtenir el conjunt de dades original d'un repositori, on apareixien sota una llicència CC-BY-ND.
+> 
+> Recordeu que podeu fer servir el [selector de llicències](https://ufal.github.io/public-license-selector/). 
+> 
+> > ## Solució
+> >
+> > Aquest investigador no pot publicar aquest conjunt de dades, perquè les dades originals estan publicades sota una llicència CC-BY-ND, i aquesta llicència no permet la creació d'obres derivades. Per poder publicar les dades l'investigador s'hauria de posar en contacte amb els autors i demanar permís.
+> >
+> {: .solution}
+{: .challenge}
+
+> ## Exercici
+>
+> Quina llicència triaria una investigadora que volgués publicar un conjunt de dades que consisteix en fets observables, no creatius, i no protegits per drets d'autor? A la investigadora li agradaria limitar l'ús de les dades a usos no comercials.
+> 
+> Recordeu que podeu fer servir el [selector de llicències](https://ufal.github.io/public-license-selector/). 
+> 
+> > ## Solució
+> >
+> > Si les dades no estan protegides per drets d'autor, un cop es facin públiques passaran a ser de domini públic. Les dades s'haurien de publicar amb un Public Domain Mark. Això és el que recomanaríem des del punt de vista de posar les dades en obert. Si la investigadora es vol assegurar que no es facin servir per usos comercials el sistema de distribució de les dades hauria de ser tal en què els usuaris es comprometin a no fer-ne un ús comercial, però publicar-les amb una llicència Creative Commons no seria adequat, perquè aquestes llicències no estan dissenyades per afegir condicions contractuals a les dades. La majoria de repositoris no ofereixen aquesta possibitat. 
+> >
+> {: .solution}
+{: .challenge}
+
+> ## Exercici
+>
+> Una estudiant de doctorat ha creat un model amb R que vol publicar amb la seva tesi doctoral. Vol fer la reutilització de les dades tan fàcil com sigui posible, i no creu que sigui necessari que els altres hagin d'utilitzar la mateixa llicència quan reutilitzen el codi.
+> 
+> Recordeu que podeu fer servir el [selector de llicències](https://ufal.github.io/public-license-selector/). 
+> 
+> > ## Solució
+> >
+> > Hi ha moltes llicències disponibles. Entre elles, la Llicència MIT, o la Llicència Apache 2. 
+> >
+> {: .solution}
+{: .challenge}
+
+
 
 ### Camps descriptius que descriguin el conjunt de dades
 
