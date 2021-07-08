@@ -179,4 +179,4 @@ Day Thomson, S.. (2016). Preserving Transactional Data [DPC Technology Watch Rep
 
 Johnston, L.R., Carlson, J, Hudson-Vitale, C., Imker, H., Kozlowski, W., Olendorf, R., Steward, C. (2016) Definitions of data curation activities used by the Data Curation Network. Retrieved from the University of Minnesota Digital Conservancy, [https://hdl.handle.net/11299/188638](https://hdl.handle.net/11299/188638). 
 
-Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data
+Whyte, A. & Wilson, A. (2010). "How to Appraise and Select Research Data for Curation". DCC How-to Guides. Edinburgh: Digital Curation Centre. Available online: [https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data](https://www.dcc.ac.uk/guidance/how-guides/appraise-select-data)
