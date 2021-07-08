@@ -1,11 +1,11 @@
 ---
-title: Recolzament a la gestió de dades de recerca en institucions i biblioteques.
+title: Recolzament a la gestió de dades de recerca.
 teaching: 30
 exercises: 0
 questions:
 - "Quins serveis ofereixen les institucions i biblioteques per donar suport a la gestió de dades de recerca?"
 - "Quines activitats es fan a altres centres del món?"
-- "Com ens mantenim al dia sobre gestió de dades"?
+- "Com ens mantenim al dia sobre gestió de dades?"
 objectives:
 - "Després d'aquesta lliçó el participant sabrà identificar i descriure activitats realitzades en biblioteques del món amb l'objectiu de donar suport als investigadors en la gestió de dades de recerca"
 keypoints:
