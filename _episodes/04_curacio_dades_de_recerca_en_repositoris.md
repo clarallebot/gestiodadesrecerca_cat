@@ -197,10 +197,10 @@ Per facilitar a altres investigadors el citar les dades correctament és útil i
 
 El més important a destacar pel que fa a la documentació és que és imprescindible que estigui present. Cap conjunt de dades s'ha de publicar sense algun tipus de documentació, la documentació hauria de ser **obligatòria**.
  
-Una part de la documentació inclou **aspectes generals**, que són elements que ja havíem inclòs en el registre, i que poden estar augmentats. Per exemple, el registre inclou els autors. En la documentació podem llistar els autors i afegir altra informació extra que pot no aparèixer en el registre, com ara l'identificador ORCID de l'investigador (en el cas que no hi hagi registre d'autoritats al repositori), l'afiliació, informació de contacte com l'adreça de correu electrònic, el paper que l'autor va exercir en la creació del conjunt de dades, etc.
- 
-És important repetir aquesta informació perquè l'investigador que decideixi descarregar les dades la tingui, fins i tot si no ha tingut la previsió de guardar la informació present al registre.
- 
+Una part de la documentació inclou **aspectes generals**, que són elements que ja havíem inclòs en el registre, i que poden estar augmentats. Per exemple, el registre inclou els autors. En la documentació podem llistar els autors i afegir altra informació extra que pot no aparèixer en el registre, com ara l'identificador ORCID de l'investigador (en el cas que no hi hagi registre d'autoritats al repositori), l'afiliació, informació de contacte com l'adreça de correu electrònic, el paper que l'autor va exercir en la creació del conjunt de dades, etc. És important repetir aquesta informació perquè l'investigador que decideixi descarregar les dades la tingui, fins i tot si no ha tingut la previsió de guardar la informació present al registre.
+
+Una altra part de la documentació pot ser altra informació extra que no és al registre, com ara una llista de les variables mesurades, i la seva definició. O detalls sobre els instruments utilitzats per fer les mesures. O una descripció detallada dels mètodes. Hi ha un munt de coses!
+
 A continuació, alguns dels elements que hem de tenir en compte en crear (o revisar) la documentació del conjunt de dades.
 
 ### Consistència de les metadades del registre i la documentació del conjunt de dades
