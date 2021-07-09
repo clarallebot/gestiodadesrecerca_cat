@@ -14,7 +14,17 @@ keypoints:
 - "És útil diferenciar entre serveis transversals, serveis a grups, i serveis a persones individuals"
 ---
 
-# Recolzament a la gestió de dades de recerca en institucions i biblioteques.
+Aquesta lliçó conté el següent contingut:
+
+* Serveis de recolzament a la gestió de dades de recerca en institucions i biblioteques.
+* Un exemple de serveis de suport a la gestió de dades
+* Mantenir-se al dia i aprendre sobre gestió de dades de recerca
+
+La primera secció està en vídeo i en text, podeu mirar el vídeo (els primers 7 minuts), o llegir aquesta pàgina, hi ha el mateix contingut. La segona secció només està en vídeo (del minut 7 al minut 21). La tercera només està en text, perquè es tracta d'una llista de recursos. El vídeo dura un total de 21 minuts.
+
+[![Vídeo del tema 5: Serveis de recolzament a la gestió de dades de recerca](../fig/tema5_careta_video.png)](https://youtu.be/6Ux2mnMrJJM)
+
+# Serveis de recolzament a la gestió de dades de recerca en institucions i biblioteques.
 
 En aquesta lliçó farem una mirada breu als serveis que les biblioteques de l'entorn del món han organitzat per donar suport als investigadors i institucions en les tasques de gestió de dades.
  
@@ -62,9 +72,8 @@ Tot això són exemples, és clar, i podem trobar molts casos de serveis que no 
 # Un exemple de serveis de suport a la gestió de dades
 
 Crec que pot ser útil veure un exemple específic de servei de dades de recerca en una institució concreta. El cas que conec millor és el de la biblioteca on treballo, així que us explicaré l'experiència de l'Oregon State University. Els recursos, prioritats i funcionament de cada biblioteca són diferents, així que només és un exemple, no necessàriament un model a seguir.
-En ser només un exemple, el contingut està només en format de vídeo.
+En ser només un exemple, el contingut està només en format de vídeo. Podeu accedir-hi anant al [vídeo que hi ha al principi d'aquesta pàgina](https://youtu.be/6Ux2mnMrJJM), i navegant directament al minut 6:50.
 
-[![Video d'exemple de serveis de suport a la gestió de dades de recerca de la Oregon State University](../fig/tema5_contingut1_exemple_serveis_suport_imatge_video.png)](https://drive.google.com/file/d/1vMf_N2C4plJ8wGdPsE_9f9Po3_4lWP3p/view?usp=sharing)
 
 # Mantenir-se al dia i aprendre sobre gestió de dades de recerca
 
