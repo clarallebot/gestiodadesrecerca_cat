@@ -16,10 +16,10 @@ keypoints:
 
 Aquesta lliçó conté el següent contingut:
 
-Plans de gestió de dades a Espanya i Catalunya
-Què és un pla de gestió de dades?
-Què s'ha d'escriure en un pla de gestió de dades?
-Plans de gestió de dades en projectes amb subjectes humans i la GDPR
+* Plans de gestió de dades a Espanya i Catalunya
+* Què és un pla de gestió de dades?
+* Què s'ha d'escriure en un pla de gestió de dades?
+* Plans de gestió de dades en projectes amb subjectes humans i la GDPR
 
 Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu preguntes vertader/fals i lectures recomanades que no són al vídeo (en requadres taronja). El vídeo dura 36 minuts.
 
