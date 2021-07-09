@@ -27,6 +27,11 @@ Aquesta lliçó conté cinc parts:
 * La gestió de dades i dades obertes
 * Els principis FAIR
 
+Podeu mirar aquest vídeo, o llegir, hi ha el mateix contingut. El vídeo dura 25 minuts.
+
+[![Vídeo del tema 1: Conceptes bàsics i principis FAIR](../fig/tema1_careta_video.png)](https://youtu.be/LUDbZ9tllNo)
+
+
 # Què són les dades de recerca?
 
  Durant aquest curs parlarem de dades d'investigació. Podeu trobar moltes definicions de dades de recerca, i alguns organismes fan servir definicions més àmplies que altres. Una possible definició:
