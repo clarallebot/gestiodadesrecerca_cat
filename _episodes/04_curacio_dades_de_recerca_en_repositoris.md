@@ -82,15 +82,15 @@ Les llicències Creative Commons poden tenir altres termes a part del Reconeixem
 
 > ## Termes de les llicències Creative Commons
 > 
-> * CompartirIgual — Si remescleu, transformeu o creeu a partir del material, heu de difondre les vostres creacions amb la mateixa llicència que l'obra original. (font, [aquí](https://creativecommons.org/licenses/by-sa/4.0/deed.ca))
-> * SenseObraDerivada — Si remescleu, transformeu o creeu a partir del material, no podeu difondre el material modificat. (font, [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.ca))
-> * NoComercial — No podeu utilitzar el material per a finalitats comercials. (font, [aquí](https://creativecommons.org/licenses/by-nc/4.0/deed.ca))
+> * **CompartirIgual** — Si remescleu, transformeu o creeu a partir del material, heu de difondre les vostres creacions amb la mateixa llicència que l'obra original. (font, [aquí](https://creativecommons.org/licenses/by-sa/4.0/deed.ca))
+> * **SenseObraDerivada** — Si remescleu, transformeu o creeu a partir del material, no podeu difondre el material modificat. (font, [aquí](https://creativecommons.org/licenses/by-nd/4.0/deed.ca))
+> * **NoComercial** — No podeu utilitzar el material per a finalitats comercials. (font, [aquí](https://creativecommons.org/licenses/by-nc/4.0/deed.ca))
 > 
 {: .callout}
 
 Tot i que en principi pot semblar que aquests termes no fan cap mal, en realitat posen traves i compliquen la reutilització de les dades. Per exemple:
-* En el cas del terme NoComercial, que és atractiu per molts investigadors, cal tenir en compte que la definició de "Comercial" no és gaire concreta. Hi ha finalitats que es poden considerar comercials sota aquesta llicència que són comuns al món acadèmic, com ara la publicació d'un llibre, o que moltes persones veuen intuitivament com a "bones" i que no voldrien prohibir, com ara l'ús de les dades per part d'organitzacions humanitàries o ONGs.
-* En casos en què un investigador o investigadora està compilant dades de moltes fonts, pot ser realment difícil fer un seguiment de les restriccions d'unes dades respecte les altres. I en el cas de * CompartirIgual obligaria a compartir totes les dades resultants sota una llicència restrictiva, independentment de les llicències de les altres.
+* En el cas del terme **NoComercial**, que és atractiu per molts investigadors, cal tenir en compte que la definició de "Comercial" no és gaire concreta. Hi ha finalitats que es poden considerar comercials sota aquesta llicència que són comuns al món acadèmic, com ara la publicació d'un llibre, o que moltes persones veuen intuitivament com a "bones" i que no voldrien prohibir, com ara l'ús de les dades per part d'organitzacions humanitàries o ONGs.
+* En casos en què un investigador o investigadora està compilant dades de moltes fonts, pot ser realment difícil fer un seguiment de les restriccions d'unes dades respecte les altres. I en el cas de **CompartirIgual** obligaria a compartir totes les dades resultants sota una llicència restrictiva, independentment de les llicències de les altres.
 
 En general és una bona idea mantenir aquest termes al mínim, a no ser que hi hagi un bon motiu.
 
