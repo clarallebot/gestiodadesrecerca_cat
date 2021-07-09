@@ -14,6 +14,16 @@ keypoints:
 - "Un dels objectius de la gestió de dades de recerca és que la ciència sigui més reproductible."
 ---
 
+Aquesta lliçó conté el següent contingut:
+
+Plans de gestió de dades a Espanya i Catalunya
+Què és un pla de gestió de dades?
+Què s'ha d'escriure en un pla de gestió de dades?
+Plans de gestió de dades en projectes amb subjectes humans i la GDPR
+
+Podeu mirar aquest vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. El vídeo dura 36 minuts.
+[![Vídeo del tema 2: Introducció als plans de gestió de dades](../fig/tema2_careta_video.png)](https://youtu.be/XRll3c-I20c)
+
 # Plans de gestió de dades a Espanya i Catalunya
 
 ### Projectes europeus
@@ -225,7 +235,7 @@ Hem parlat sobretot de compartir dades i de preservar dades. Què més hem d'exp
 > {: .solution}
 {: .challenge}
 
-## Plans de gestió de dades en projectes amb subjectes humans i la GDPR
+# Plans de gestió de dades en projectes amb subjectes humans i la GDPR
 
 Quan els projectes de recerca inclouen treballar amb informació personal la gestió de dades es complica. Els investigadors han de assegurar-se que la investigació es fa de manera ètica, i també han de assegurar-se que compleixen amb totes les lleis, les nacionals i les de la Unió Europea. La llei nacional rellevant és la [Llei Orgànica 3/2018 de 5 de Desembre de Protecció de Dades Personals i garantia de drets digitals](https://www.boe.es/eli/es/lo/2018/12/05/3). La llei europea rellevant és el [Reglament (UE) 2016/679, la General Data Protection Regulation o GDPR](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016R0679&from=ES). Un bon DMP hauria resumir a grans trets com es tractaran les dades personals per protegir els participants.
 
