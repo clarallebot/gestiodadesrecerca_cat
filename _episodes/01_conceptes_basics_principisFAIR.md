@@ -27,7 +27,7 @@ Aquesta lliçó conté cinc parts:
 * La gestió de dades i dades obertes
 * Els principis FAIR
 
-Podeu mirar aquest vídeo, o llegir, hi ha el mateix contingut. El vídeo dura 25 minuts.
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu preguntes vertader/fals i lectures recomanades que no són al vídeo (en requadres taronja). El vídeo dura 25 minuts.
 
 [![Vídeo del tema 1: Conceptes bàsics i principis FAIR](../fig/tema1_careta_video.png)](https://youtu.be/LUDbZ9tllNo)
 
