@@ -21,7 +21,8 @@ Què és un pla de gestió de dades?
 Què s'ha d'escriure en un pla de gestió de dades?
 Plans de gestió de dades en projectes amb subjectes humans i la GDPR
 
-Podeu mirar aquest vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. El vídeo dura 36 minuts.
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu preguntes vertader/fals i lectures recomanades que no són al vídeo (en requadres taronja). El vídeo dura 36 minuts.
+
 [![Vídeo del tema 2: Introducció als plans de gestió de dades](../fig/tema2_careta_video.png)](https://youtu.be/XRll3c-I20c)
 
 # Plans de gestió de dades a Espanya i Catalunya
