@@ -20,6 +20,17 @@ key points:
 -  "En organitzar dades en un full de càlcul hem de guardar les dates fent servir un estàndard o separant Dia, Mes i Any en columnes diferents"
 -  "En organitzar dades en un full de càlcul hem de generar documentació per assegurar la reproductibilitat del projecte"
 ---
+
+Aquesta lliçó conté les següents seccions:
+
+* La curació de dades de recerca
+* Curar els fitxers de dades
+* Dades ordenades, "tidy data" i fulls de càlcul
+
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. El vídeo dura uns 33 minuts. 
+
+[Farem disponible el vídeo en breu]
+
 # La curació de dades de recerca
 
 > ## Definició de curació de dades
