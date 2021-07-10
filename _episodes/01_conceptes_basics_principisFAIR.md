@@ -1,7 +1,7 @@
 ---
 title: Conceptes bàsics i principis FAIR
-teaching: 30
-exercises: 0
+teaching: 25
+exercises: 35
 questions:
 - "Què són les dades de recerca?"
 - "Què vol dir reproductibilitat?"
