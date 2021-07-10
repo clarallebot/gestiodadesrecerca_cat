@@ -6,7 +6,7 @@ questions:
 - "Quins són els elements claus de metadades que ha de tenir un conjunt de dades en un repositori?"
 - "Com ha de ser la documentació d'un conjunt de dades?"
 objectives:
-- "Saber enumerar activitats necessaries per la curació de dades de recerca."
+- "Reconèixer els elements a avaluar quan curem un conjunt de dades."
 - "Identificar els requeriments essencials que ha de complir un conjunt de dades per a ser aprovat"
 - "Identificar els elments que, encara que no essencials, milloren la qualitat d'un conjunt de dades."
 key points:
