@@ -26,7 +26,7 @@ Aquesta lliçó conté el següent contingut:
 
 Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu uns quants exercicis sobre llicències (en requadres taronja). El vídeo dura 29 minuts.
 
-[Farem disponible el vídeo en breu]
+[![Vídeo del tema 4: Curar dades de recerca. Metadades](../fig/tema4_careta_video.png)](https://youtu.be/3pEsLNgdDaQ)
 
 # Curar dades en un repositori institucional
 
