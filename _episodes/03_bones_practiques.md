@@ -27,9 +27,9 @@ Aquesta lliçó conté les següents seccions:
 * Curar els fitxers de dades
 * Dades ordenades, "tidy data" i fulls de càlcul
 
-Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. El vídeo dura uns 33 minuts. 
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. El vídeo dura uns 34 minuts. 
 
-[Farem disponible el vídeo en breu]
+[![Vídeo del tema 3: Curació de dades i organització de dades](../fig/tema3_careta_video.png)](https://youtu.be/66rv_vKZPBA)
 
 # La curació de dades de recerca
 
