@@ -1,7 +1,7 @@
 ---
 title: Curació de dades de recerca en repositoris. Registre i documentació.
 teaching: 30
-exercises: 0
+exercises: 30
 questions:
 - "Quins són els elements claus de metadades que ha de tenir un conjunt de dades en un repositori?"
 - "Com ha de ser la documentació d'un conjunt de dades?"
