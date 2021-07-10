@@ -1,7 +1,7 @@
 ---
 title: Curació de dades de recerca en repositoris. Organització de dades
-teaching: 30
-exercises: 0
+teaching: 35
+exercises: 25
 questions:
 - "Què és la curació de dades?"
 - "Quines activitats formen part de la curació de dades de recerca?"
