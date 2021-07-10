@@ -1,7 +1,7 @@
 ---
 title: Introducció als plans de gestió de dades
-teaching: 5
-exercises: 0
+teaching: 35
+exercises: 25
 questions:
 - "Què és un pla de gestió de dades?"
 - "Per què serveix un pla de gestió de dades?"
