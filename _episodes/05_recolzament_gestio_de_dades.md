@@ -1,7 +1,7 @@
 ---
 title: Recolzament a la gestió de dades de recerca.
 teaching: 30
-exercises: 0
+exercises: 30
 questions:
 - "Quins serveis ofereixen les institucions i biblioteques per donar suport a la gestió de dades de recerca?"
 - "Quines activitats es fan a altres centres del món?"
