@@ -16,7 +16,19 @@ key points:
 -  "En avaluar un fitxer de documentació mirarem que sigui consistent amb el registre, que estigui documentat en un format adient, que hi hagi informació de contacte, que els enllaços funcionin i siguin robustos, que hi hagi una llista dels fitxers del conjunt de dades i un diccionari de dades, i que s'expliquin els mètodes."
 -  "El Data Curation Network és un bon recurs per curar dades quan no s'és expert en la matèria"
 ---
-# Curar dades en un repositori
+
+Aquesta lliçó conté el següent contingut:
+
+* Curar dades en un repositori institucional
+* El registre del repositori
+* La documentació del conjunt de dades
+* Curar dades de recerca quan no s'és expert en el tema
+
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu uns quants exercicis sobre llicències (en requadres taronja). El vídeo dura 29 minuts.
+
+[Farem disponible el vídeo en breu]
+
+# Curar dades en un repositori institucional
 
 Aquest tema està enfocat a la curació de dades per a un repositori institucional que accepta documents rellevants per a la institució (per exemple tesis, informes, materials docents, etc.) i que també accepta dades de recerca dels investigadors de la universitat. Els conceptes de què parlarem es poden aplicar fàcilment a altres repositoris, però la rigidesa o flexibilitat amb què s'apliquen és una cosa que s'ha de decidir segons els objectius del repositori.
  
@@ -250,30 +262,3 @@ Un altre element molt útil del Data Curation Network és que han desenvolupat u
 # Referències
 
 Green, A., MacDonald, S., & Rice, R. (2009). Policy-making for Research Data in Repositories: A Guide. Data Information Specialists Committee. [https://www.coar-repositories.org/files/guide.pdf](https://www.coar-repositories.org/files/guide.pdf)
-
-
-> ## Incís
-> 
-> Aquí explicarem un incís.
-> 
-{: .callout}
-
-> ## Exercici
->
-> Us proposo aquest exercici
->
-> > ## Solució
-> >
-> > Aquesta és la solució de l'exercici
-> >
-> {: .solution}
-{: .challenge}
-
-
-
-> ## Lectures recomanades
->
-> *   Article 1
->
-> *   Article 2
-{: .challenge}
