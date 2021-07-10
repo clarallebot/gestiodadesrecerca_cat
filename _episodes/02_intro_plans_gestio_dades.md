@@ -21,7 +21,7 @@ Aquesta lliçó conté el següent contingut:
 * Què s'ha d'escriure en un pla de gestió de dades?
 * Plans de gestió de dades en projectes amb subjectes humans i la GDPR
 
-Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu preguntes vertader/fals i lectures recomanades que no són al vídeo (en requadres taronja). El vídeo dura 36 minuts.
+Podeu mirar el vídeo, o llegir aquesta pàgina, hi ha el mateix contingut. La única diferència és que a la lliçó escrita trobareu preguntes vertader/fals i lectures recomanades que no són al vídeo (en requadres taronja). Al final de la lliçó (només en el text, no en el vídeo) també trobareu recursos per trobar exemples de plans de gestió de dades fets per contextos diferents, de disciplines diferents. El vídeo dura 36 minuts.
 
 [![Vídeo del tema 2: Introducció als plans de gestió de dades](../fig/tema2_careta_video.png)](https://youtu.be/XRll3c-I20c)
 
